@@ -1,0 +1,7502 @@
+{
+    "country": [
+        {
+            "value": 90,
+            "label": "TÜRKİYE"
+        },
+        {
+            "value": 1,
+            "label": "AMERİKA BİRLEŞİK DEVLETLERİ"
+        },
+        {
+            "value": 2,
+            "label": "ALMANYA"
+        },
+        {
+            "value": 13,
+            "label": "BOSNA HERSEK"
+        },
+        {
+            "value": 14,
+            "label": "BELÇİKA"
+        },
+        {
+            "value": 15,
+            "label": "KANADA"
+        },
+        {
+            "value": 16,
+            "label": "İSVİÇRE"
+        },
+        {
+            "value": 17,
+            "label": "KIBRIS (GÜNEY KIBRIS)"
+        },
+        {
+            "value": 18,
+            "label": "İRAN"
+        },
+        {
+            "value": 19,
+            "label": "MOLDOVA"
+        },
+        {
+            "value": 20,
+            "label": "UKRAYNA"
+        },
+        {
+            "value": 21,
+            "label": "ANDORRA"
+        },
+        {
+            "value": 22,
+            "label": "BİRLEŞİK ARAP EMİRLİKLERİ"
+        },
+        {
+            "value": 23,
+            "label": "AFGANİSTAN"
+        },
+        {
+            "value": 24,
+            "label": "ARNAVUTLUK"
+        },
+        {
+            "value": 25,
+            "label": "ERMENİSTAN"
+        },
+        {
+            "value": 26,
+            "label": "HOLLANDA ANTİLLERİ"
+        },
+        {
+            "value": 27,
+            "label": "ANGOLA"
+        },
+        {
+            "value": 28,
+            "label": "ARJANTİN"
+        },
+        {
+            "value": 29,
+            "label": "AVUSTURYA"
+        },
+        {
+            "value": 30,
+            "label": "AVUSTRALYA"
+        },
+        {
+            "value": 31,
+            "label": "AZERBAYCAN"
+        },
+        {
+            "value": 32,
+            "label": "BARBADOS"
+        },
+        {
+            "value": 33,
+            "label": "BANGLADEŞ"
+        },
+        {
+            "value": 34,
+            "label": "BURKİNA FASO"
+        },
+        {
+            "value": 35,
+            "label": "BAHREYN"
+        },
+        {
+            "value": 36,
+            "label": "BURUNDİ"
+        },
+        {
+            "value": 37,
+            "label": "BENİN"
+        },
+        {
+            "value": 38,
+            "label": "BERMUDA"
+        },
+        {
+            "value": 39,
+            "label": "BRUNEİ"
+        },
+        {
+            "value": 40,
+            "label": "BOLİVYA"
+        },
+        {
+            "value": 41,
+            "label": "BREZİLYA"
+        },
+        {
+            "value": 42,
+            "label": "BHUTAN"
+        },
+        {
+            "value": 43,
+            "label": "BOTSVANA"
+        },
+        {
+            "value": 44,
+            "label": "BELARUS"
+        },
+        {
+            "value": 45,
+            "label": "BELİZE"
+        },
+        {
+            "value": 46,
+            "label": "ORTA AFRİKA CUMHURİYETİ"
+        },
+        {
+            "value": 47,
+            "label": "KONGO"
+        },
+        {
+            "value": 48,
+            "label": "FİLDİŞİ SAHİLİ"
+        },
+        {
+            "value": 49,
+            "label": "ŞİLİ"
+        },
+        {
+            "value": 50,
+            "label": "KAMERUN"
+        },
+        {
+            "value": 51,
+            "label": "ÇİN HALK CUMHURİYETİ"
+        },
+        {
+            "value": 52,
+            "label": "KOLOMBİYA"
+        },
+        {
+            "value": 53,
+            "label": "KOSTA RİKA"
+        },
+        {
+            "value": 54,
+            "label": "ÇEKOSLOVAKYA (ESKİ-SİLİNECEK)"
+        },
+        {
+            "value": 55,
+            "label": "KÜBA"
+        },
+        {
+            "value": 56,
+            "label": "ÇEK CUMHURİYETİ (ÇEKYA)"
+        },
+        {
+            "value": 57,
+            "label": "CİBUTİ"
+        },
+        {
+            "value": 58,
+            "label": "DANİMARKA"
+        },
+        {
+            "value": 59,
+            "label": "DOMİNİK CUMHURİYETİ"
+        },
+        {
+            "value": 60,
+            "label": "CEZAYİR"
+        },
+        {
+            "value": 61,
+            "label": "EKVADOR"
+        },
+        {
+            "value": 62,
+            "label": "ESTONYA"
+        },
+        {
+            "value": 63,
+            "label": "MISIR"
+        },
+        {
+            "value": 64,
+            "label": "BATI SAHRA"
+        },
+        {
+            "value": 65,
+            "label": "ERİTRE"
+        },
+        {
+            "value": 66,
+            "label": "İSPANYA"
+        },
+        {
+            "value": 67,
+            "label": "ETİYOPYA"
+        },
+        {
+            "value": 68,
+            "label": "FİNLANDİYA"
+        },
+        {
+            "value": 69,
+            "label": "FİJİ"
+        },
+        {
+            "value": 70,
+            "label": "FAROE ADALARI"
+        },
+        {
+            "value": 71,
+            "label": "FRANSA"
+        },
+        {
+            "value": 72,
+            "label": "GABON"
+        },
+        {
+            "value": 73,
+            "label": "İNGİLTERE"
+        },
+        {
+            "value": 74,
+            "label": "GRENADA"
+        },
+        {
+            "value": 115,
+            "label": "LİBERYA"
+        },
+        {
+            "value": 120,
+            "label": "LİBYA"
+        },
+        {
+            "value": 124,
+            "label": "MAKEDONYA"
+        },
+        {
+            "value": 129,
+            "label": "MALTA"
+        },
+        {
+            "value": 134,
+            "label": "MALEZYA"
+        },
+        {
+            "value": 138,
+            "label": "NİJERYA"
+        },
+        {
+            "value": 143,
+            "label": "YENİ ZELANDA"
+        },
+        {
+            "value": 148,
+            "label": "PAKİSTAN"
+        },
+        {
+            "value": 153,
+            "label": "KATAR"
+        },
+        {
+            "value": 158,
+            "label": "SUDAN"
+        },
+        {
+            "value": 162,
+            "label": "SLOVAKYA"
+        },
+        {
+            "value": 167,
+            "label": "SURİNAM"
+        },
+        {
+            "value": 172,
+            "label": "TOGO"
+        },
+        {
+            "value": 176,
+            "label": "TUNUS"
+        },
+        {
+            "value": 180,
+            "label": "ÖZBEKİSTAN"
+        },
+        {
+            "value": 186,
+            "label": "ZAMBİYA"
+        },
+        {
+            "value": 468,
+            "label": "FİLİSTİN"
+        },
+        {
+            "value": 958,
+            "label": "MARSHALL ADALARI"
+        },
+        {
+            "value": 255,
+            "label": "TANZANYA BİRLEŞİK CUMHURİYETİ"
+        },
+        {
+            "value": 212,
+            "label": "DOMİNİKA"
+        },
+        {
+            "value": 301,
+            "label": "ANGUİLLA"
+        },
+        {
+            "value": 214,
+            "label": "SAO TOME VE PRİNCİPE"
+        },
+        {
+            "value": 796,
+            "label": "TURKS VE CAİCOS ADALARI"
+        },
+        {
+            "value": 285,
+            "label": "ANTİGUA VE BARBUDA"
+        },
+        {
+            "value": 286,
+            "label": "ALAND ADALARI"
+        },
+        {
+            "value": 287,
+            "label": "COOK ADALARI"
+        },
+        {
+            "value": 288,
+            "label": "CEBELİTARIK"
+        },
+        {
+            "value": 345,
+            "label": "CAYMAN ADALARI"
+        },
+        {
+            "value": 290,
+            "label": "ABD PASİFİK ADALARI (GENEL ADI)"
+        },
+        {
+            "value": 291,
+            "label": "REUNION"
+        },
+        {
+            "value": 292,
+            "label": "WALLİS VE FUTUNA"
+        },
+        {
+            "value": 294,
+            "label": "MAN ADASI"
+        },
+        {
+            "value": 295,
+            "label": "BRİTANYA DENİZAŞIRI TOPRAKLARI"
+        },
+        {
+            "value": 296,
+            "label": "DOĞU TİMOR (TİMOR-LESTE)"
+        },
+        {
+            "value": 293,
+            "label": "ULUSLARASI KURULUŞLAR (SİLİNECEK)"
+        },
+        {
+            "value": 75,
+            "label": "GÜRCİSTAN"
+        },
+        {
+            "value": 76,
+            "label": "FRANSIZ GUYANASI"
+        },
+        {
+            "value": 77,
+            "label": "GANA"
+        },
+        {
+            "value": 78,
+            "label": "GRÖNLAND"
+        },
+        {
+            "value": 79,
+            "label": "GAMBİYA"
+        },
+        {
+            "value": 80,
+            "label": "GİNE"
+        },
+        {
+            "value": 81,
+            "label": "YUNANİSTAN"
+        },
+        {
+            "value": 82,
+            "label": "GUATEMALA"
+        },
+        {
+            "value": 83,
+            "label": "GUAM"
+        },
+        {
+            "value": 85,
+            "label": "GUYANA"
+        },
+        {
+            "value": 86,
+            "label": "HONG KONG"
+        },
+        {
+            "value": 87,
+            "label": "HONDURAS"
+        },
+        {
+            "value": 88,
+            "label": "HIRVATİSTAN"
+        },
+        {
+            "value": 92,
+            "label": "BULGARİSTAN"
+        },
+        {
+            "value": 93,
+            "label": "PERU"
+        },
+        {
+            "value": 95,
+            "label": "ENDONEZYA"
+        },
+        {
+            "value": 96,
+            "label": "İRLANDA"
+        },
+        {
+            "value": 97,
+            "label": "İSRAİL"
+        },
+        {
+            "value": 98,
+            "label": "HİNDİSTAN"
+        },
+        {
+            "value": 100,
+            "label": "İZLANDA"
+        },
+        {
+            "value": 101,
+            "label": "İTALYA"
+        },
+        {
+            "value": 102,
+            "label": "JAMAİKA"
+        },
+        {
+            "value": 103,
+            "label": "ÜRDÜN"
+        },
+        {
+            "value": 105,
+            "label": "KENYA"
+        },
+        {
+            "value": 106,
+            "label": "KIRGIZİSTAN"
+        },
+        {
+            "value": 107,
+            "label": "KAMBOÇYA"
+        },
+        {
+            "value": 109,
+            "label": "GÜNEY KORE"
+        },
+        {
+            "value": 110,
+            "label": "KUVEYT"
+        },
+        {
+            "value": 111,
+            "label": "KAZAKİSTAN"
+        },
+        {
+            "value": 112,
+            "label": "LÜBNAN"
+        },
+        {
+            "value": 113,
+            "label": "LİHTENŞTAYN"
+        },
+        {
+            "value": 114,
+            "label": "SRİ LANKA"
+        },
+        {
+            "value": 116,
+            "label": "LESOTHO"
+        },
+        {
+            "value": 117,
+            "label": "LİTVANYA"
+        },
+        {
+            "value": 118,
+            "label": "LÜKSEMBURG"
+        },
+        {
+            "value": 119,
+            "label": "LETONYA"
+        },
+        {
+            "value": 121,
+            "label": "FAS"
+        },
+        {
+            "value": 122,
+            "label": "MONAKO"
+        },
+        {
+            "value": 240,
+            "label": "EKVATOR GİNESİ"
+        },
+        {
+            "value": 500,
+            "label": "MONTSERRAT"
+        },
+        {
+            "value": 832,
+            "label": "JERSEY"
+        },
+        {
+            "value": 188,
+            "label": "ZİMBABVE"
+        },
+        {
+            "value": 381,
+            "label": "KOSOVA"
+        },
+        {
+            "value": 300,
+            "label": "KUZEY KIBRIS TÜRK CUMHURİYETİ"
+        },
+        {
+            "value": 999,
+            "label": "BİRLEŞMİŞ MİLLETLER (KULLANMAYIN)"
+        },
+        {
+            "value": 284,
+            "label": "BRİTANYA VİRJİN ADALARI"
+        },
+        {
+            "value": 202,
+            "label": "SAİNT VİNCENT VE GRENADİNLER"
+        },
+        {
+            "value": 213,
+            "label": "SEYŞELLER"
+        },
+        {
+            "value": 204,
+            "label": "SIRBİSTAN"
+        },
+        {
+            "value": 206,
+            "label": "SAİNT KİTTS VE NEVİS"
+        },
+        {
+            "value": 382,
+            "label": "KARADAĞ"
+        },
+        {
+            "value": 208,
+            "label": "ARUBA"
+        },
+        {
+            "value": 209,
+            "label": "SINT MAARTEN"
+        },
+        {
+            "value": 210,
+            "label": "CURAÇAO"
+        },
+        {
+            "value": 189,
+            "label": "DİĞER (KULLANMAYIN-SİLİNECEK)"
+        },
+        {
+            "value": 243,
+            "label": "DEMOKRATİK KONGO CUMHURİYETİ"
+        },
+        {
+            "value": 84,
+            "label": "GİNE-BİSSAU"
+        },
+        {
+            "value": 89,
+            "label": "HAİTİ"
+        },
+        {
+            "value": 94,
+            "label": "MACARİSTAN"
+        },
+        {
+            "value": 99,
+            "label": "IRAK"
+        },
+        {
+            "value": 104,
+            "label": "JAPONYA"
+        },
+        {
+            "value": 108,
+            "label": "KUZEY KORE"
+        },
+        {
+            "value": 298,
+            "label": "İNGİLTERE GUERNSEY ISLE OF MAN JERSEY HR"
+        },
+        {
+            "value": 269,
+            "label": "KOMORLAR"
+        },
+        {
+            "value": 383,
+            "label": "BAHAMALAR"
+        },
+        {
+            "value": 975,
+            "label": "GÜNEY SUDAN CUMHURİYETİ"
+        },
+        {
+            "value": 684,
+            "label": "AMERİKAN SAMOASI"
+        },
+        {
+            "value": 238,
+            "label": "CAPE VERDE (CABO VERDE)"
+        },
+        {
+            "value": 853,
+            "label": "MAKAO (MACAU)"
+        },
+        {
+            "value": 674,
+            "label": "NAURU"
+        },
+        {
+            "value": 687,
+            "label": "YENİ KALEDONYA"
+        },
+        {
+            "value": 683,
+            "label": "NİUE"
+        },
+        {
+            "value": 680,
+            "label": "PALAU"
+        },
+        {
+            "value": 758,
+            "label": "SAİNT LUCİA"
+        },
+        {
+            "value": 685,
+            "label": "SAMOA"
+        },
+        {
+            "value": 868,
+            "label": "TRİNİDAD VE TOBAGO"
+        },
+        {
+            "value": 340,
+            "label": "AMERİKAN VİRJİN ADALARI"
+        },
+        {
+            "value": 678,
+            "label": "VANUATU"
+        },
+        {
+            "value": 856,
+            "label": "LAOS (LAO)"
+        },
+        {
+            "value": 390,
+            "label": "SOLOMON ADALARI"
+        },
+        {
+            "value": 198,
+            "label": "GUERNSEY"
+        },
+        {
+            "value": 123,
+            "label": "MADAGASKAR"
+        },
+        {
+            "value": 125,
+            "label": "MALİ"
+        },
+        {
+            "value": 126,
+            "label": "MYANMAR-BURMA"
+        },
+        {
+            "value": 127,
+            "label": "MOĞOLİSTAN"
+        },
+        {
+            "value": 128,
+            "label": "MORİTANYA"
+        },
+        {
+            "value": 130,
+            "label": "MAURİTİUS"
+        },
+        {
+            "value": 131,
+            "label": "MALDİVLER"
+        },
+        {
+            "value": 132,
+            "label": "MALAVİ"
+        },
+        {
+            "value": 133,
+            "label": "MEKSİKA"
+        },
+        {
+            "value": 135,
+            "label": "MOZAMBİK"
+        },
+        {
+            "value": 136,
+            "label": "NAMİBYA"
+        },
+        {
+            "value": 137,
+            "label": "NİJER"
+        },
+        {
+            "value": 140,
+            "label": "HOLLANDA"
+        },
+        {
+            "value": 141,
+            "label": "NORVEÇ"
+        },
+        {
+            "value": 142,
+            "label": "NEPAL"
+        },
+        {
+            "value": 144,
+            "label": "UMMAN"
+        },
+        {
+            "value": 145,
+            "label": "PANAMA"
+        },
+        {
+            "value": 146,
+            "label": "PAPUA YENİ GİNE"
+        },
+        {
+            "value": 147,
+            "label": "FİLİPİNLER"
+        },
+        {
+            "value": 149,
+            "label": "POLONYA"
+        },
+        {
+            "value": 150,
+            "label": "PORTO RİKO"
+        },
+        {
+            "value": 151,
+            "label": "PORTEKİZ"
+        },
+        {
+            "value": 152,
+            "label": "PARAGUAY"
+        },
+        {
+            "value": 154,
+            "label": "ROMANYA"
+        },
+        {
+            "value": 155,
+            "label": "RUSYA FEDERASYONU"
+        },
+        {
+            "value": 156,
+            "label": "RUANDA"
+        },
+        {
+            "value": 157,
+            "label": "SUUDİ ARABİSTAN"
+        },
+        {
+            "value": 159,
+            "label": "İSVEÇ"
+        },
+        {
+            "value": 160,
+            "label": "SİNGAPUR"
+        },
+        {
+            "value": 171,
+            "label": "ÇAD"
+        },
+        {
+            "value": 139,
+            "label": "NİKARAGUA"
+        },
+        {
+            "value": 161,
+            "label": "SLOVENYA"
+        },
+        {
+            "value": 163,
+            "label": "SİERRA LEONE"
+        },
+        {
+            "value": 164,
+            "label": "SAN MARİNO"
+        },
+        {
+            "value": 165,
+            "label": "SENEGAL"
+        },
+        {
+            "value": 166,
+            "label": "SOMALİ"
+        },
+        {
+            "value": 168,
+            "label": "EL SALVADOR"
+        },
+        {
+            "value": 169,
+            "label": "SURİYE"
+        },
+        {
+            "value": 170,
+            "label": "SVAZİLAND"
+        },
+        {
+            "value": 173,
+            "label": "TAYLAND"
+        },
+        {
+            "value": 174,
+            "label": "TACİKİSTAN"
+        },
+        {
+            "value": 175,
+            "label": "TÜRKMENİSTAN"
+        },
+        {
+            "value": 177,
+            "label": "TAYVAN"
+        },
+        {
+            "value": 178,
+            "label": "UGANDA"
+        },
+        {
+            "value": 179,
+            "label": "URUGUAY"
+        },
+        {
+            "value": 181,
+            "label": "VENEZUELA"
+        },
+        {
+            "value": 182,
+            "label": "VİETNAM"
+        },
+        {
+            "value": 183,
+            "label": "YEMEN"
+        },
+        {
+            "value": 184,
+            "label": "YUGOSLAVYA (ESKİ-SİLİNECEK)"
+        },
+        {
+            "value": 185,
+            "label": "GÜNEY AFRİKA CUMHURİYETİ"
+        },
+        {
+            "value": 187,
+            "label": "ZAIRE (ESKİ - SİLİNECEK)"
+        }
+    ],
+    "city": [
+        {
+            "filter": 90,
+            "value": 1,
+            "label": "ADANA"
+        },
+        {
+            "filter": 90,
+            "value": 2,
+            "label": "ADIYAMAN"
+        },
+        {
+            "filter": 90,
+            "value": 3,
+            "label": "AFYONKARAHİSAR"
+        },
+        {
+            "filter": 90,
+            "value": 4,
+            "label": "AĞRI"
+        },
+        {
+            "filter": 90,
+            "value": 5,
+            "label": "AMASYA"
+        },
+        {
+            "filter": 90,
+            "value": 6,
+            "label": "ANKARA"
+        },
+        {
+            "filter": 90,
+            "value": 7,
+            "label": "ANTALYA"
+        },
+        {
+            "filter": 90,
+            "value": 8,
+            "label": "ARTVİN"
+        },
+        {
+            "filter": 90,
+            "value": 9,
+            "label": "AYDIN"
+        },
+        {
+            "filter": 90,
+            "value": 10,
+            "label": "BALIKESİR"
+        },
+        {
+            "filter": 90,
+            "value": 11,
+            "label": "BİLECİK"
+        },
+        {
+            "filter": 90,
+            "value": 12,
+            "label": "BİNGÖL"
+        },
+        {
+            "filter": 90,
+            "value": 13,
+            "label": "BİTLİS"
+        },
+        {
+            "filter": 90,
+            "value": 14,
+            "label": "BOLU"
+        },
+        {
+            "filter": 90,
+            "value": 15,
+            "label": "BURDUR"
+        },
+        {
+            "filter": 90,
+            "value": 16,
+            "label": "BURSA"
+        },
+        {
+            "filter": 90,
+            "value": 17,
+            "label": "ÇANAKKALE"
+        },
+        {
+            "filter": 90,
+            "value": 18,
+            "label": "ÇANKIRI"
+        },
+        {
+            "filter": 90,
+            "value": 19,
+            "label": "ÇORUM"
+        },
+        {
+            "filter": 90,
+            "value": 20,
+            "label": "DENİZLİ"
+        },
+        {
+            "filter": 90,
+            "value": 21,
+            "label": "DİYARBAKIR"
+        },
+        {
+            "filter": 90,
+            "value": 22,
+            "label": "EDİRNE"
+        },
+        {
+            "filter": 90,
+            "value": 23,
+            "label": "ELAZIĞ"
+        },
+        {
+            "filter": 90,
+            "value": 24,
+            "label": "ERZİNCAN"
+        },
+        {
+            "filter": 90,
+            "value": 25,
+            "label": "ERZURUM"
+        },
+        {
+            "filter": 90,
+            "value": 26,
+            "label": "ESKİŞEHİR"
+        },
+        {
+            "filter": 90,
+            "value": 27,
+            "label": "GAZİANTEP"
+        },
+        {
+            "filter": 90,
+            "value": 28,
+            "label": "GİRESUN"
+        },
+        {
+            "filter": 90,
+            "value": 29,
+            "label": "GÜMÜŞHANE"
+        },
+        {
+            "filter": 90,
+            "value": 30,
+            "label": "HAKKARİ"
+        },
+        {
+            "filter": 90,
+            "value": 31,
+            "label": "HATAY"
+        },
+        {
+            "filter": 90,
+            "value": 32,
+            "label": "ISPARTA"
+        },
+        {
+            "filter": 90,
+            "value": 33,
+            "label": "MERSİN"
+        },
+        {
+            "filter": 90,
+            "value": 34,
+            "label": "İSTANBUL"
+        },
+        {
+            "filter": 90,
+            "value": 35,
+            "label": "İZMİR"
+        },
+        {
+            "filter": 90,
+            "value": 36,
+            "label": "KARS"
+        },
+        {
+            "filter": 90,
+            "value": 37,
+            "label": "KASTAMONU"
+        },
+        {
+            "filter": 90,
+            "value": 38,
+            "label": "KAYSERİ"
+        },
+        {
+            "filter": 90,
+            "value": 39,
+            "label": "KIRKLARELİ"
+        },
+        {
+            "filter": 90,
+            "value": 40,
+            "label": "KIRŞEHİR"
+        },
+        {
+            "filter": 90,
+            "value": 41,
+            "label": "KOCAELİ"
+        },
+        {
+            "filter": 90,
+            "value": 42,
+            "label": "KONYA"
+        },
+        {
+            "filter": 90,
+            "value": 43,
+            "label": "KÜTAHYA"
+        },
+        {
+            "filter": 90,
+            "value": 44,
+            "label": "MALATYA"
+        },
+        {
+            "filter": 90,
+            "value": 45,
+            "label": "MANİSA"
+        },
+        {
+            "filter": 90,
+            "value": 46,
+            "label": "KAHRAMANMARAŞ"
+        },
+        {
+            "filter": 90,
+            "value": 47,
+            "label": "MARDİN"
+        },
+        {
+            "filter": 90,
+            "value": 48,
+            "label": "MUĞLA"
+        },
+        {
+            "filter": 90,
+            "value": 49,
+            "label": "MUŞ"
+        },
+        {
+            "filter": 90,
+            "value": 50,
+            "label": "NEVŞEHİR"
+        },
+        {
+            "filter": 90,
+            "value": 51,
+            "label": "NİĞDE"
+        },
+        {
+            "filter": 90,
+            "value": 52,
+            "label": "ORDU"
+        },
+        {
+            "filter": 90,
+            "value": 53,
+            "label": "RİZE"
+        },
+        {
+            "filter": 90,
+            "value": 54,
+            "label": "SAKARYA"
+        },
+        {
+            "filter": 90,
+            "value": 55,
+            "label": "SAMSUN"
+        },
+        {
+            "filter": 90,
+            "value": 56,
+            "label": "SİİRT"
+        },
+        {
+            "filter": 90,
+            "value": 57,
+            "label": "SİNOP"
+        },
+        {
+            "filter": 90,
+            "value": 58,
+            "label": "SİVAS"
+        },
+        {
+            "filter": 90,
+            "value": 59,
+            "label": "TEKİRDAĞ"
+        },
+        {
+            "filter": 90,
+            "value": 60,
+            "label": "TOKAT"
+        },
+        {
+            "filter": 90,
+            "value": 61,
+            "label": "TRABZON"
+        },
+        {
+            "filter": 90,
+            "value": 62,
+            "label": "TUNCELİ"
+        },
+        {
+            "filter": 90,
+            "value": 63,
+            "label": "ŞANLIURFA"
+        },
+        {
+            "filter": 90,
+            "value": 64,
+            "label": "UŞAK"
+        },
+        {
+            "filter": 90,
+            "value": 65,
+            "label": "VAN"
+        },
+        {
+            "filter": 90,
+            "value": 66,
+            "label": "YOZGAT"
+        },
+        {
+            "filter": 90,
+            "value": 67,
+            "label": "ZONGULDAK"
+        },
+        {
+            "filter": 90,
+            "value": 68,
+            "label": "AKSARAY"
+        },
+        {
+            "filter": 90,
+            "value": 69,
+            "label": "BAYBURT"
+        },
+        {
+            "filter": 90,
+            "value": 70,
+            "label": "KARAMAN"
+        },
+        {
+            "filter": 90,
+            "value": 71,
+            "label": "KIRIKKALE"
+        },
+        {
+            "filter": 90,
+            "value": 72,
+            "label": "BATMAN"
+        },
+        {
+            "filter": 90,
+            "value": 73,
+            "label": "ŞIRNAK"
+        },
+        {
+            "filter": 90,
+            "value": 74,
+            "label": "BARTIN"
+        },
+        {
+            "filter": 90,
+            "value": 75,
+            "label": "ARDAHAN"
+        },
+        {
+            "filter": 90,
+            "value": 76,
+            "label": "IĞDIR"
+        },
+        {
+            "filter": 90,
+            "value": 77,
+            "label": "YALOVA"
+        },
+        {
+            "filter": 90,
+            "value": 78,
+            "label": "KARABÜK"
+        },
+        {
+            "filter": 90,
+            "value": 79,
+            "label": "KİLİS"
+        },
+        {
+            "filter": 90,
+            "value": 80,
+            "label": "OSMANİYE"
+        },
+        {
+            "filter": 90,
+            "value": 81,
+            "label": "DÜZCE"
+        },
+        {
+            "filter": 90,
+            "value": 999,
+            "label": "YURTDIŞI"
+        }
+    ],
+    "town": [
+        {
+            "filter": 1,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 1,
+            "value": 1,
+            "label": "ALADAĞ"
+        },
+        {
+            "filter": 1,
+            "value": 2,
+            "label": "CEYHAN"
+        },
+        {
+            "filter": 1,
+            "value": 3,
+            "label": "CEYHAN"
+        },
+        {
+            "filter": 1,
+            "value": 4,
+            "label": "FEKE"
+        },
+        {
+            "filter": 1,
+            "value": 5,
+            "label": "FEKE"
+        },
+        {
+            "filter": 1,
+            "value": 6,
+            "label": "KARAİSALI"
+        },
+        {
+            "filter": 1,
+            "value": 7,
+            "label": "KARATAŞ"
+        },
+        {
+            "filter": 1,
+            "value": 8,
+            "label": "KOZAN"
+        },
+        {
+            "filter": 1,
+            "value": 9,
+            "label": "KARATAŞ"
+        },
+        {
+            "filter": 1,
+            "value": 10,
+            "label": "POZANTI"
+        },
+        {
+            "filter": 1,
+            "value": 11,
+            "label": "SAİMBEYLİ"
+        },
+        {
+            "filter": 1,
+            "value": 12,
+            "label": "TUFANBEYLİ"
+        },
+        {
+            "filter": 1,
+            "value": 13,
+            "label": "YUMURTALIK"
+        },
+        {
+            "filter": 1,
+            "value": 14,
+            "label": "ALADAĞ"
+        },
+        {
+            "filter": 1,
+            "value": 15,
+            "label": "İMAMOĞLU"
+        },
+        {
+            "filter": 1,
+            "value": 16,
+            "label": "SEYHAN"
+        },
+        {
+            "filter": 1,
+            "value": 17,
+            "label": "YÜREĞİR"
+        },
+        {
+            "filter": 1,
+            "value": 18,
+            "label": "SARIÇAM"
+        },
+        {
+            "filter": 1,
+            "value": 19,
+            "label": "ÇUKUROVA"
+        },
+        {
+            "filter": 1,
+            "value": 23,
+            "label": "deneme"
+        },
+        {
+            "filter": 1,
+            "value": 100,
+            "label": "USA"
+        },
+        {
+            "filter": 2,
+            "value": 0,
+            "label": "ADIYAMAN MERKEZ"
+        },
+        {
+            "filter": 2,
+            "value": 1,
+            "label": "BESNİ"
+        },
+        {
+            "filter": 2,
+            "value": 2,
+            "label": "ÇELİKHAN"
+        },
+        {
+            "filter": 2,
+            "value": 3,
+            "label": "GERGER"
+        },
+        {
+            "filter": 2,
+            "value": 4,
+            "label": "GÖLBAŞI"
+        },
+        {
+            "filter": 2,
+            "value": 5,
+            "label": "KAHTA"
+        },
+        {
+            "filter": 2,
+            "value": 6,
+            "label": "SAMSAT"
+        },
+        {
+            "filter": 2,
+            "value": 7,
+            "label": "SİNCİK"
+        },
+        {
+            "filter": 2,
+            "value": 8,
+            "label": "TUT"
+        },
+        {
+            "filter": 2,
+            "value": 9,
+            "label": "TUT"
+        },
+        {
+            "filter": 2,
+            "value": 14,
+            "label": "Samsat"
+        },
+        {
+            "filter": 3,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 3,
+            "value": 1,
+            "label": "BOLVADİN"
+        },
+        {
+            "filter": 3,
+            "value": 2,
+            "label": "ÇAY"
+        },
+        {
+            "filter": 3,
+            "value": 3,
+            "label": "DAZKIRI"
+        },
+        {
+            "filter": 3,
+            "value": 4,
+            "label": "DİNAR"
+        },
+        {
+            "filter": 3,
+            "value": 5,
+            "label": "EMİRDAĞ"
+        },
+        {
+            "filter": 3,
+            "value": 6,
+            "label": "İHSANİYE"
+        },
+        {
+            "filter": 3,
+            "value": 7,
+            "label": "SANDIKLI"
+        },
+        {
+            "filter": 3,
+            "value": 8,
+            "label": "SİNANPAŞA"
+        },
+        {
+            "filter": 3,
+            "value": 9,
+            "label": "SULTANDAĞI"
+        },
+        {
+            "filter": 3,
+            "value": 10,
+            "label": "ŞUHUT"
+        },
+        {
+            "filter": 3,
+            "value": 11,
+            "label": "BAŞMAKÇI"
+        },
+        {
+            "filter": 3,
+            "value": 12,
+            "label": "BAYAT"
+        },
+        {
+            "filter": 3,
+            "value": 13,
+            "label": "İSCEHİSAR"
+        },
+        {
+            "filter": 3,
+            "value": 14,
+            "label": "ÇOBANLAR"
+        },
+        {
+            "filter": 3,
+            "value": 15,
+            "label": "EVCİLER"
+        },
+        {
+            "filter": 3,
+            "value": 16,
+            "label": "HOCALAR"
+        },
+        {
+            "filter": 3,
+            "value": 17,
+            "label": "KIZILÖREN"
+        },
+        {
+            "filter": 3,
+            "value": 18,
+            "label": "ŞUHUT"
+        },
+        {
+            "filter": 3,
+            "value": 19,
+            "label": "SİNANPAŞA"
+        },
+        {
+            "filter": 4,
+            "value": 0,
+            "label": "AĞRI MERKEZ"
+        },
+        {
+            "filter": 4,
+            "value": 1,
+            "label": "DİYADİN"
+        },
+        {
+            "filter": 4,
+            "value": 2,
+            "label": "DOĞUBAYAZIT"
+        },
+        {
+            "filter": 4,
+            "value": 3,
+            "label": "ELEŞKİRT"
+        },
+        {
+            "filter": 4,
+            "value": 4,
+            "label": "HAMUR"
+        },
+        {
+            "filter": 4,
+            "value": 5,
+            "label": "PATNOS"
+        },
+        {
+            "filter": 4,
+            "value": 6,
+            "label": "TAŞLIÇAY"
+        },
+        {
+            "filter": 4,
+            "value": 7,
+            "label": "TUTAK"
+        },
+        {
+            "filter": 4,
+            "value": 8,
+            "label": "TUTAK"
+        },
+        {
+            "filter": 5,
+            "value": 0,
+            "label": "AMASYA MERKEZ"
+        },
+        {
+            "filter": 5,
+            "value": 1,
+            "label": "GÖYNÜCEK"
+        },
+        {
+            "filter": 5,
+            "value": 2,
+            "label": "GÜMÜŞHACIKÖY"
+        },
+        {
+            "filter": 5,
+            "value": 3,
+            "label": "MERZİFON"
+        },
+        {
+            "filter": 5,
+            "value": 4,
+            "label": "SULUOVA"
+        },
+        {
+            "filter": 5,
+            "value": 5,
+            "label": "TAŞOVA"
+        },
+        {
+            "filter": 5,
+            "value": 6,
+            "label": "HAMAMÖZÜ"
+        },
+        {
+            "filter": 5,
+            "value": 7,
+            "label": "TAŞOVA"
+        },
+        {
+            "filter": 6,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 6,
+            "value": 1,
+            "label": "ALTINDAĞ"
+        },
+        {
+            "filter": 6,
+            "value": 2,
+            "label": "ÇANKAYA"
+        },
+        {
+            "filter": 6,
+            "value": 3,
+            "label": "KEÇİÖREN"
+        },
+        {
+            "filter": 6,
+            "value": 4,
+            "label": "MAMAK"
+        },
+        {
+            "filter": 6,
+            "value": 5,
+            "label": "YENİMAHALLE"
+        },
+        {
+            "filter": 6,
+            "value": 6,
+            "label": "AYAŞ"
+        },
+        {
+            "filter": 6,
+            "value": 7,
+            "label": "BALA"
+        },
+        {
+            "filter": 6,
+            "value": 8,
+            "label": "BEYPAZARI"
+        },
+        {
+            "filter": 6,
+            "value": 9,
+            "label": "ÇAMLIDERE"
+        },
+        {
+            "filter": 6,
+            "value": 10,
+            "label": "ÇUBUK"
+        },
+        {
+            "filter": 6,
+            "value": 11,
+            "label": "EVREN"
+        },
+        {
+            "filter": 6,
+            "value": 12,
+            "label": "ELMADAĞ"
+        },
+        {
+            "filter": 6,
+            "value": 13,
+            "label": "GÖLBAŞI"
+        },
+        {
+            "filter": 6,
+            "value": 14,
+            "label": "GÜDÜL"
+        },
+        {
+            "filter": 6,
+            "value": 15,
+            "label": "HAYMANA"
+        },
+        {
+            "filter": 6,
+            "value": 16,
+            "label": "KALECİK"
+        },
+        {
+            "filter": 6,
+            "value": 17,
+            "label": "KEÇİÖREN"
+        },
+        {
+            "filter": 6,
+            "value": 18,
+            "label": "KIZILCAHAMAM"
+        },
+        {
+            "filter": 6,
+            "value": 19,
+            "label": "KIZILCAHAMAM"
+        },
+        {
+            "filter": 6,
+            "value": 20,
+            "label": "NALLIHAN"
+        },
+        {
+            "filter": 6,
+            "value": 21,
+            "label": "POLATLI"
+        },
+        {
+            "filter": 6,
+            "value": 22,
+            "label": "SİNCAN"
+        },
+        {
+            "filter": 6,
+            "value": 23,
+            "label": "Ş.KOÇHİSAR"
+        },
+        {
+            "filter": 6,
+            "value": 24,
+            "label": "ŞEREFLİKOÇHİSAR"
+        },
+        {
+            "filter": 6,
+            "value": 25,
+            "label": "KAZAN"
+        },
+        {
+            "filter": 6,
+            "value": 26,
+            "label": "AKYURT"
+        },
+        {
+            "filter": 6,
+            "value": 27,
+            "label": "ETİMESGUT"
+        },
+        {
+            "filter": 6,
+            "value": 28,
+            "label": "EVREN"
+        },
+        {
+            "filter": 6,
+            "value": 29,
+            "label": "PURSAKLAR"
+        },
+        {
+            "filter": 6,
+            "value": 30,
+            "label": "YENİŞEHİR"
+        },
+        {
+            "filter": 6,
+            "value": 31,
+            "label": "ULUS"
+        },
+        {
+            "filter": 6,
+            "value": 80,
+            "label": "YÜCETEPE"
+        },
+        {
+            "filter": 6,
+            "value": 89,
+            "label": "AKSARAY"
+        },
+        {
+            "filter": 6,
+            "value": 94,
+            "label": "NALLIHAN"
+        },
+        {
+            "filter": 6,
+            "value": 95,
+            "label": "KIZILAY"
+        },
+        {
+            "filter": 6,
+            "value": 96,
+            "label": "HASKÖY"
+        },
+        {
+            "filter": 7,
+            "value": 0,
+            "label": "ANTALYA MERKEZ"
+        },
+        {
+            "filter": 7,
+            "value": 1,
+            "label": "AKSEKİ"
+        },
+        {
+            "filter": 7,
+            "value": 2,
+            "label": "ALANYA"
+        },
+        {
+            "filter": 7,
+            "value": 3,
+            "label": "ELMALI"
+        },
+        {
+            "filter": 7,
+            "value": 4,
+            "label": "FİNİKE"
+        },
+        {
+            "filter": 7,
+            "value": 5,
+            "label": "GAZİPAŞA"
+        },
+        {
+            "filter": 7,
+            "value": 6,
+            "label": "GÜNDOĞMUŞ"
+        },
+        {
+            "filter": 7,
+            "value": 7,
+            "label": "KAŞ"
+        },
+        {
+            "filter": 7,
+            "value": 8,
+            "label": "KORKUTELİ"
+        },
+        {
+            "filter": 7,
+            "value": 9,
+            "label": "KUMLUCA"
+        },
+        {
+            "filter": 7,
+            "value": 10,
+            "label": "MANAVGAT"
+        },
+        {
+            "filter": 7,
+            "value": 11,
+            "label": "SERİK"
+        },
+        {
+            "filter": 7,
+            "value": 12,
+            "label": "DEMRE"
+        },
+        {
+            "filter": 7,
+            "value": 13,
+            "label": "İBRADI"
+        },
+        {
+            "filter": 7,
+            "value": 14,
+            "label": "KEMER"
+        },
+        {
+            "filter": 7,
+            "value": 15,
+            "label": "DÖŞEMEALTI"
+        },
+        {
+            "filter": 7,
+            "value": 16,
+            "label": "KEPEZ"
+        },
+        {
+            "filter": 7,
+            "value": 17,
+            "label": "KONYAALTI"
+        },
+        {
+            "filter": 7,
+            "value": 18,
+            "label": "MURATPAŞA"
+        },
+        {
+            "filter": 7,
+            "value": 19,
+            "label": "AKSU"
+        },
+        {
+            "filter": 8,
+            "value": 0,
+            "label": "ARTVİN MERKEZ"
+        },
+        {
+            "filter": 8,
+            "value": 1,
+            "label": "ARDANUÇ"
+        },
+        {
+            "filter": 8,
+            "value": 2,
+            "label": "ARHAVİ"
+        },
+        {
+            "filter": 8,
+            "value": 3,
+            "label": "BORÇKA"
+        },
+        {
+            "filter": 8,
+            "value": 4,
+            "label": "HOPA"
+        },
+        {
+            "filter": 8,
+            "value": 5,
+            "label": "ŞAVŞAT"
+        },
+        {
+            "filter": 8,
+            "value": 6,
+            "label": "YUSUFELİ"
+        },
+        {
+            "filter": 8,
+            "value": 7,
+            "label": "MURGUL"
+        },
+        {
+            "filter": 8,
+            "value": 8,
+            "label": "YUSUFELİ"
+        },
+        {
+            "filter": 9,
+            "value": 0,
+            "label": "AYDIN MERKEZ"
+        },
+        {
+            "filter": 9,
+            "value": 1,
+            "label": "BOZDOĞAN"
+        },
+        {
+            "filter": 9,
+            "value": 2,
+            "label": "ÇİNE"
+        },
+        {
+            "filter": 9,
+            "value": 3,
+            "label": "GERMENCİK"
+        },
+        {
+            "filter": 9,
+            "value": 4,
+            "label": "KARACASU"
+        },
+        {
+            "filter": 9,
+            "value": 5,
+            "label": "KOÇARLI"
+        },
+        {
+            "filter": 9,
+            "value": 6,
+            "label": "KUŞADASI"
+        },
+        {
+            "filter": 9,
+            "value": 7,
+            "label": "KUYUCAK"
+        },
+        {
+            "filter": 9,
+            "value": 8,
+            "label": "NAZİLLİ"
+        },
+        {
+            "filter": 9,
+            "value": 9,
+            "label": "SÖKE"
+        },
+        {
+            "filter": 9,
+            "value": 10,
+            "label": "SULTANHİSAR"
+        },
+        {
+            "filter": 9,
+            "value": 11,
+            "label": "YENİPAZAR"
+        },
+        {
+            "filter": 9,
+            "value": 12,
+            "label": "BUHARKENT"
+        },
+        {
+            "filter": 9,
+            "value": 13,
+            "label": "İNCİRLİOVA"
+        },
+        {
+            "filter": 9,
+            "value": 14,
+            "label": "KARPUZLU"
+        },
+        {
+            "filter": 9,
+            "value": 15,
+            "label": "KÖŞK"
+        },
+        {
+            "filter": 9,
+            "value": 16,
+            "label": "DİDİM"
+        },
+        {
+            "filter": 9,
+            "value": 17,
+            "label": "YENİPAZAR"
+        },
+        {
+            "filter": 9,
+            "value": 72,
+            "label": "EFELER"
+        },
+        {
+            "filter": 10,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 10,
+            "value": 1,
+            "label": "AYVALIK"
+        },
+        {
+            "filter": 10,
+            "value": 2,
+            "label": "BALYA"
+        },
+        {
+            "filter": 10,
+            "value": 3,
+            "label": "BANDIRMA"
+        },
+        {
+            "filter": 10,
+            "value": 4,
+            "label": "BİGADİÇ"
+        },
+        {
+            "filter": 10,
+            "value": 5,
+            "label": "BURHANİYE"
+        },
+        {
+            "filter": 10,
+            "value": 6,
+            "label": "DURSUNBEY"
+        },
+        {
+            "filter": 10,
+            "value": 7,
+            "label": "EDREMİT"
+        },
+        {
+            "filter": 10,
+            "value": 8,
+            "label": "ERDEK"
+        },
+        {
+            "filter": 10,
+            "value": 9,
+            "label": "GÖNEN"
+        },
+        {
+            "filter": 10,
+            "value": 10,
+            "label": "HAVRAN"
+        },
+        {
+            "filter": 10,
+            "value": 11,
+            "label": "İVRİNDİ"
+        },
+        {
+            "filter": 10,
+            "value": 12,
+            "label": "KEPSUT"
+        },
+        {
+            "filter": 10,
+            "value": 13,
+            "label": "MANYAS"
+        },
+        {
+            "filter": 10,
+            "value": 14,
+            "label": "SAVAŞTEPE"
+        },
+        {
+            "filter": 10,
+            "value": 15,
+            "label": "SINDIRGI"
+        },
+        {
+            "filter": 10,
+            "value": 16,
+            "label": "SUSURLUK"
+        },
+        {
+            "filter": 10,
+            "value": 17,
+            "label": "MARMARA"
+        },
+        {
+            "filter": 10,
+            "value": 18,
+            "label": "GÖMEÇ"
+        },
+        {
+            "filter": 10,
+            "value": 19,
+            "label": "SUSURLUK"
+        },
+        {
+            "filter": 10,
+            "value": 20,
+            "label": "Balya"
+        },
+        {
+            "filter": 10,
+            "value": 71,
+            "label": "ALTIEYLÜL"
+        },
+        {
+            "filter": 10,
+            "value": 72,
+            "label": "KARESİ"
+        },
+        {
+            "filter": 11,
+            "value": 0,
+            "label": "BİLECİK MERKEZ"
+        },
+        {
+            "filter": 11,
+            "value": 1,
+            "label": "BOZÜYÜK"
+        },
+        {
+            "filter": 11,
+            "value": 2,
+            "label": "GÖLPAZARI"
+        },
+        {
+            "filter": 11,
+            "value": 3,
+            "label": "OSMANELİ"
+        },
+        {
+            "filter": 11,
+            "value": 4,
+            "label": "PAZARYERİ"
+        },
+        {
+            "filter": 11,
+            "value": 5,
+            "label": "SÖĞÜT"
+        },
+        {
+            "filter": 11,
+            "value": 6,
+            "label": "YENİPAZAR"
+        },
+        {
+            "filter": 11,
+            "value": 7,
+            "label": "İNHİSAR"
+        },
+        {
+            "filter": 11,
+            "value": 8,
+            "label": "YENİPAZAR"
+        },
+        {
+            "filter": 11,
+            "value": 20,
+            "label": "Pazaryeri"
+        },
+        {
+            "filter": 12,
+            "value": 0,
+            "label": "BİNGÖL MERKEZ"
+        },
+        {
+            "filter": 12,
+            "value": 1,
+            "label": "GENÇ"
+        },
+        {
+            "filter": 12,
+            "value": 2,
+            "label": "KARLIOVA"
+        },
+        {
+            "filter": 12,
+            "value": 3,
+            "label": "KİĞI"
+        },
+        {
+            "filter": 12,
+            "value": 4,
+            "label": "SOLHAN"
+        },
+        {
+            "filter": 12,
+            "value": 5,
+            "label": "ADAKLI"
+        },
+        {
+            "filter": 12,
+            "value": 6,
+            "label": "YAYLADERE"
+        },
+        {
+            "filter": 12,
+            "value": 7,
+            "label": "YEDİSU"
+        },
+        {
+            "filter": 12,
+            "value": 8,
+            "label": "YEDİSU"
+        },
+        {
+            "filter": 13,
+            "value": 0,
+            "label": "BİTLİS MERKEZ"
+        },
+        {
+            "filter": 13,
+            "value": 1,
+            "label": "ADİLCEVAZ"
+        },
+        {
+            "filter": 13,
+            "value": 2,
+            "label": "AHLAT"
+        },
+        {
+            "filter": 13,
+            "value": 3,
+            "label": "HİZAN"
+        },
+        {
+            "filter": 13,
+            "value": 4,
+            "label": "MUTKİ"
+        },
+        {
+            "filter": 13,
+            "value": 5,
+            "label": "TATVAN"
+        },
+        {
+            "filter": 13,
+            "value": 6,
+            "label": "GÜROYMAK"
+        },
+        {
+            "filter": 13,
+            "value": 7,
+            "label": "TATVAN"
+        },
+        {
+            "filter": 13,
+            "value": 8,
+            "label": "Güroymak"
+        },
+        {
+            "filter": 14,
+            "value": 0,
+            "label": "BOLU MERKEZ"
+        },
+        {
+            "filter": 14,
+            "value": 1,
+            "label": "AKÇAKOCA"
+        },
+        {
+            "filter": 14,
+            "value": 2,
+            "label": "CUMAOVA"
+        },
+        {
+            "filter": 14,
+            "value": 3,
+            "label": "GEREDE"
+        },
+        {
+            "filter": 14,
+            "value": 4,
+            "label": "GÖYNÜK"
+        },
+        {
+            "filter": 14,
+            "value": 5,
+            "label": "KIBRISCIK"
+        },
+        {
+            "filter": 14,
+            "value": 6,
+            "label": "MENGEN"
+        },
+        {
+            "filter": 14,
+            "value": 7,
+            "label": "MUDURNU"
+        },
+        {
+            "filter": 14,
+            "value": 8,
+            "label": "SEBEN"
+        },
+        {
+            "filter": 14,
+            "value": 9,
+            "label": "KIBRISCIK"
+        },
+        {
+            "filter": 14,
+            "value": 10,
+            "label": "MENGEN"
+        },
+        {
+            "filter": 14,
+            "value": 11,
+            "label": "BOLU MERKEZ"
+        },
+        {
+            "filter": 14,
+            "value": 12,
+            "label": "MUDURNU"
+        },
+        {
+            "filter": 14,
+            "value": 13,
+            "label": "DÖRTDİVAN"
+        },
+        {
+            "filter": 14,
+            "value": 14,
+            "label": "YENİÇAĞA"
+        },
+        {
+            "filter": 14,
+            "value": 15,
+            "label": "YIĞILCA"
+        },
+        {
+            "filter": 15,
+            "value": 0,
+            "label": "BURDUR MERKEZ"
+        },
+        {
+            "filter": 15,
+            "value": 1,
+            "label": "AĞLASUN"
+        },
+        {
+            "filter": 15,
+            "value": 2,
+            "label": "BUCAK"
+        },
+        {
+            "filter": 15,
+            "value": 3,
+            "label": "GÖLHİSAR"
+        },
+        {
+            "filter": 15,
+            "value": 4,
+            "label": "TEFENNİ"
+        },
+        {
+            "filter": 15,
+            "value": 5,
+            "label": "YEŞİLOVA"
+        },
+        {
+            "filter": 15,
+            "value": 6,
+            "label": "KARAMANLI"
+        },
+        {
+            "filter": 15,
+            "value": 7,
+            "label": "KEMER"
+        },
+        {
+            "filter": 15,
+            "value": 8,
+            "label": "ALTINYAYLA"
+        },
+        {
+            "filter": 15,
+            "value": 9,
+            "label": "ÇAVDIR"
+        },
+        {
+            "filter": 15,
+            "value": 10,
+            "label": "ÇELTİKÇİ"
+        },
+        {
+            "filter": 15,
+            "value": 11,
+            "label": "YEŞİLOVA"
+        },
+        {
+            "filter": 16,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 16,
+            "value": 1,
+            "label": "GEMLİK"
+        },
+        {
+            "filter": 16,
+            "value": 2,
+            "label": "İNEGÖL"
+        },
+        {
+            "filter": 16,
+            "value": 3,
+            "label": "İZNİK"
+        },
+        {
+            "filter": 16,
+            "value": 4,
+            "label": "KARACABEY"
+        },
+        {
+            "filter": 16,
+            "value": 5,
+            "label": "KELES"
+        },
+        {
+            "filter": 16,
+            "value": 6,
+            "label": "MUDANYA"
+        },
+        {
+            "filter": 16,
+            "value": 7,
+            "label": "MUSTAFAKEMALPAŞA"
+        },
+        {
+            "filter": 16,
+            "value": 8,
+            "label": "ORHANELİ"
+        },
+        {
+            "filter": 16,
+            "value": 9,
+            "label": "ORHANGAZİ"
+        },
+        {
+            "filter": 16,
+            "value": 10,
+            "label": "YENİŞEHİR"
+        },
+        {
+            "filter": 16,
+            "value": 11,
+            "label": "BÜYÜKORHAN"
+        },
+        {
+            "filter": 16,
+            "value": 12,
+            "label": "HARMANCIK"
+        },
+        {
+            "filter": 16,
+            "value": 13,
+            "label": "NİLÜFER"
+        },
+        {
+            "filter": 16,
+            "value": 14,
+            "label": "OSMANGAZİ"
+        },
+        {
+            "filter": 16,
+            "value": 15,
+            "label": "YILDIRIM"
+        },
+        {
+            "filter": 16,
+            "value": 16,
+            "label": "GÜRSU"
+        },
+        {
+            "filter": 16,
+            "value": 17,
+            "label": "KESTEL"
+        },
+        {
+            "filter": 17,
+            "value": 0,
+            "label": "ÇANAKKALE MERKEZ"
+        },
+        {
+            "filter": 17,
+            "value": 1,
+            "label": "AYVACIK"
+        },
+        {
+            "filter": 17,
+            "value": 2,
+            "label": "BAYRAMİÇ"
+        },
+        {
+            "filter": 17,
+            "value": 3,
+            "label": "BİGA"
+        },
+        {
+            "filter": 17,
+            "value": 4,
+            "label": "BOZCAADA"
+        },
+        {
+            "filter": 17,
+            "value": 5,
+            "label": "ÇAN"
+        },
+        {
+            "filter": 17,
+            "value": 6,
+            "label": "ECEABAT"
+        },
+        {
+            "filter": 17,
+            "value": 7,
+            "label": "EZİNE"
+        },
+        {
+            "filter": 17,
+            "value": 8,
+            "label": "GELİBOLU"
+        },
+        {
+            "filter": 17,
+            "value": 9,
+            "label": "GÖKÇEADA"
+        },
+        {
+            "filter": 17,
+            "value": 10,
+            "label": "LAPSEKİ"
+        },
+        {
+            "filter": 17,
+            "value": 11,
+            "label": "YENİCE"
+        },
+        {
+            "filter": 17,
+            "value": 12,
+            "label": "Biga"
+        },
+        {
+            "filter": 17,
+            "value": 17,
+            "label": "Lapseki"
+        },
+        {
+            "filter": 18,
+            "value": 0,
+            "label": "ÇANKIRI MERKEZ"
+        },
+        {
+            "filter": 18,
+            "value": 1,
+            "label": "ÇERKEŞ"
+        },
+        {
+            "filter": 18,
+            "value": 2,
+            "label": "ELDİVAN"
+        },
+        {
+            "filter": 18,
+            "value": 3,
+            "label": "ÇERKEŞ"
+        },
+        {
+            "filter": 18,
+            "value": 4,
+            "label": "ILGAZ"
+        },
+        {
+            "filter": 18,
+            "value": 5,
+            "label": "KURŞUNLU"
+        },
+        {
+            "filter": 18,
+            "value": 6,
+            "label": "ORTA"
+        },
+        {
+            "filter": 18,
+            "value": 7,
+            "label": "KIZILIRMAK"
+        },
+        {
+            "filter": 18,
+            "value": 8,
+            "label": "ŞABANÖZÜ"
+        },
+        {
+            "filter": 18,
+            "value": 9,
+            "label": "YAPRAKLI"
+        },
+        {
+            "filter": 18,
+            "value": 10,
+            "label": "ATKARACALAR"
+        },
+        {
+            "filter": 18,
+            "value": 11,
+            "label": "KIZILIRMAK"
+        },
+        {
+            "filter": 18,
+            "value": 12,
+            "label": "BAYRAMÖREN"
+        },
+        {
+            "filter": 18,
+            "value": 13,
+            "label": "KORGUN"
+        },
+        {
+            "filter": 18,
+            "value": 14,
+            "label": "YAPRAKLI"
+        },
+        {
+            "filter": 19,
+            "value": 0,
+            "label": "ÇORUM MERKEZ"
+        },
+        {
+            "filter": 19,
+            "value": 1,
+            "label": "ALACA"
+        },
+        {
+            "filter": 19,
+            "value": 2,
+            "label": "BAYAT"
+        },
+        {
+            "filter": 19,
+            "value": 3,
+            "label": "İSKİLİP"
+        },
+        {
+            "filter": 19,
+            "value": 4,
+            "label": "KARGI"
+        },
+        {
+            "filter": 19,
+            "value": 5,
+            "label": "MECİTÖZÜ"
+        },
+        {
+            "filter": 19,
+            "value": 6,
+            "label": "ORTAKÖY"
+        },
+        {
+            "filter": 19,
+            "value": 7,
+            "label": "OSMANCIK"
+        },
+        {
+            "filter": 19,
+            "value": 8,
+            "label": "SUNGURLU"
+        },
+        {
+            "filter": 19,
+            "value": 9,
+            "label": "BOĞAZKALE"
+        },
+        {
+            "filter": 19,
+            "value": 10,
+            "label": "UĞURLUDAĞ"
+        },
+        {
+            "filter": 19,
+            "value": 11,
+            "label": "DODURGA"
+        },
+        {
+            "filter": 19,
+            "value": 12,
+            "label": "LAÇİN"
+        },
+        {
+            "filter": 19,
+            "value": 13,
+            "label": "OĞUZLAR"
+        },
+        {
+            "filter": 19,
+            "value": 14,
+            "label": "UĞURLUDAĞ"
+        },
+        {
+            "filter": 20,
+            "value": 0,
+            "label": "DENİZLİ MERKEZ"
+        },
+        {
+            "filter": 20,
+            "value": 1,
+            "label": "ACIPAYAM"
+        },
+        {
+            "filter": 20,
+            "value": 2,
+            "label": "BULDAN"
+        },
+        {
+            "filter": 20,
+            "value": 3,
+            "label": "ÇAL"
+        },
+        {
+            "filter": 20,
+            "value": 4,
+            "label": "ÇAMELİ"
+        },
+        {
+            "filter": 20,
+            "value": 5,
+            "label": "ÇARDAK"
+        },
+        {
+            "filter": 20,
+            "value": 6,
+            "label": "ÇİVRİL"
+        },
+        {
+            "filter": 20,
+            "value": 7,
+            "label": "GÜNEY"
+        },
+        {
+            "filter": 20,
+            "value": 8,
+            "label": "KALE"
+        },
+        {
+            "filter": 20,
+            "value": 9,
+            "label": "SARAYKÖY"
+        },
+        {
+            "filter": 20,
+            "value": 10,
+            "label": "TAVAS"
+        },
+        {
+            "filter": 20,
+            "value": 11,
+            "label": "BABADAĞ"
+        },
+        {
+            "filter": 20,
+            "value": 12,
+            "label": "BEKİLLİ"
+        },
+        {
+            "filter": 20,
+            "value": 13,
+            "label": "HONAZ"
+        },
+        {
+            "filter": 20,
+            "value": 14,
+            "label": "SERİNHİSAR"
+        },
+        {
+            "filter": 20,
+            "value": 15,
+            "label": "KIZILCABÖLÜK"
+        },
+        {
+            "filter": 20,
+            "value": 16,
+            "label": "PAMUKKALE"
+        },
+        {
+            "filter": 20,
+            "value": 17,
+            "label": "BAKLAN"
+        },
+        {
+            "filter": 20,
+            "value": 18,
+            "label": "BEYAĞAÇ"
+        },
+        {
+            "filter": 20,
+            "value": 19,
+            "label": "BOZKURT"
+        },
+        {
+            "filter": 20,
+            "value": 61,
+            "label": "MERKEZEFENDİ"
+        },
+        {
+            "filter": 21,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 21,
+            "value": 1,
+            "label": "BİSMİL"
+        },
+        {
+            "filter": 21,
+            "value": 2,
+            "label": "ÇERMİK"
+        },
+        {
+            "filter": 21,
+            "value": 3,
+            "label": "ÇINAR"
+        },
+        {
+            "filter": 21,
+            "value": 4,
+            "label": "ÇÜNGÜŞ"
+        },
+        {
+            "filter": 21,
+            "value": 5,
+            "label": "DİCLE"
+        },
+        {
+            "filter": 21,
+            "value": 6,
+            "label": "ERGANİ"
+        },
+        {
+            "filter": 21,
+            "value": 7,
+            "label": "HANİ"
+        },
+        {
+            "filter": 21,
+            "value": 8,
+            "label": "HAZRO"
+        },
+        {
+            "filter": 21,
+            "value": 9,
+            "label": "KULP"
+        },
+        {
+            "filter": 21,
+            "value": 10,
+            "label": "YENİŞEHİR"
+        },
+        {
+            "filter": 21,
+            "value": 11,
+            "label": "SİLVAN"
+        },
+        {
+            "filter": 21,
+            "value": 12,
+            "label": "EĞİL"
+        },
+        {
+            "filter": 21,
+            "value": 13,
+            "label": "KOCAKÖY"
+        },
+        {
+            "filter": 21,
+            "value": 14,
+            "label": "SUR"
+        },
+        {
+            "filter": 21,
+            "value": 15,
+            "label": "BAĞLAR"
+        },
+        {
+            "filter": 21,
+            "value": 16,
+            "label": "KAYAPINAR"
+        },
+        {
+            "filter": 21,
+            "value": 17,
+            "label": "Çermik"
+        },
+        {
+            "filter": 21,
+            "value": 19,
+            "label": "Kulp"
+        },
+        {
+            "filter": 21,
+            "value": 59,
+            "label": "LİCE"
+        },
+        {
+            "filter": 22,
+            "value": 0,
+            "label": "EDİRNE MERKEZ"
+        },
+        {
+            "filter": 22,
+            "value": 1,
+            "label": "ENEZ"
+        },
+        {
+            "filter": 22,
+            "value": 2,
+            "label": "HAVSA"
+        },
+        {
+            "filter": 22,
+            "value": 3,
+            "label": "İPSALA"
+        },
+        {
+            "filter": 22,
+            "value": 4,
+            "label": "KEŞAN"
+        },
+        {
+            "filter": 22,
+            "value": 5,
+            "label": "LALAPAŞA"
+        },
+        {
+            "filter": 22,
+            "value": 6,
+            "label": "MERİÇ"
+        },
+        {
+            "filter": 22,
+            "value": 7,
+            "label": "UZUNKÖPRÜ"
+        },
+        {
+            "filter": 22,
+            "value": 8,
+            "label": "SÜLOĞLU"
+        },
+        {
+            "filter": 22,
+            "value": 9,
+            "label": "UZUNKÖPRÜ"
+        },
+        {
+            "filter": 22,
+            "value": 17,
+            "label": "Uzunköprü"
+        },
+        {
+            "filter": 23,
+            "value": 0,
+            "label": "ELAZIĞ MERKEZ"
+        },
+        {
+            "filter": 23,
+            "value": 1,
+            "label": "AĞIN"
+        },
+        {
+            "filter": 23,
+            "value": 2,
+            "label": "BASKİL"
+        },
+        {
+            "filter": 23,
+            "value": 3,
+            "label": "KARAKOÇAN"
+        },
+        {
+            "filter": 23,
+            "value": 4,
+            "label": "KEBAN"
+        },
+        {
+            "filter": 23,
+            "value": 5,
+            "label": "MADEN"
+        },
+        {
+            "filter": 23,
+            "value": 6,
+            "label": "PALU"
+        },
+        {
+            "filter": 23,
+            "value": 7,
+            "label": "SİVRİCE"
+        },
+        {
+            "filter": 23,
+            "value": 8,
+            "label": "KOVANCILAR"
+        },
+        {
+            "filter": 23,
+            "value": 9,
+            "label": "ARICAK"
+        },
+        {
+            "filter": 23,
+            "value": 10,
+            "label": "ALACAKAYA"
+        },
+        {
+            "filter": 23,
+            "value": 11,
+            "label": "SİVRİCE"
+        },
+        {
+            "filter": 23,
+            "value": 12,
+            "label": "UOI"
+        },
+        {
+            "filter": 24,
+            "value": 0,
+            "label": "ERZİNCAN MERKEZ"
+        },
+        {
+            "filter": 24,
+            "value": 1,
+            "label": "ÇAYIRLI"
+        },
+        {
+            "filter": 24,
+            "value": 2,
+            "label": "İLİÇ"
+        },
+        {
+            "filter": 24,
+            "value": 3,
+            "label": "KEMAH"
+        },
+        {
+            "filter": 24,
+            "value": 4,
+            "label": "KEMALİYE"
+        },
+        {
+            "filter": 24,
+            "value": 5,
+            "label": "REFAHİYE"
+        },
+        {
+            "filter": 24,
+            "value": 6,
+            "label": "TERCAN"
+        },
+        {
+            "filter": 24,
+            "value": 7,
+            "label": "ÜZÜMLÜ"
+        },
+        {
+            "filter": 24,
+            "value": 8,
+            "label": "OTLUKBELİ"
+        },
+        {
+            "filter": 24,
+            "value": 9,
+            "label": "ÜZÜMLÜ"
+        },
+        {
+            "filter": 24,
+            "value": 11,
+            "label": "Tercan"
+        },
+        {
+            "filter": 25,
+            "value": 0,
+            "label": "ERZURUM MERKEZ"
+        },
+        {
+            "filter": 25,
+            "value": 1,
+            "label": "AŞKALE"
+        },
+        {
+            "filter": 25,
+            "value": 2,
+            "label": "ÇAT"
+        },
+        {
+            "filter": 25,
+            "value": 3,
+            "label": "HINIS"
+        },
+        {
+            "filter": 25,
+            "value": 4,
+            "label": "HORASAN"
+        },
+        {
+            "filter": 25,
+            "value": 5,
+            "label": "İSPİR"
+        },
+        {
+            "filter": 25,
+            "value": 6,
+            "label": "KARAYAZI"
+        },
+        {
+            "filter": 25,
+            "value": 7,
+            "label": "NARMAN"
+        },
+        {
+            "filter": 25,
+            "value": 8,
+            "label": "OLTU"
+        },
+        {
+            "filter": 25,
+            "value": 9,
+            "label": "OLUR"
+        },
+        {
+            "filter": 25,
+            "value": 10,
+            "label": "PASİNLER"
+        },
+        {
+            "filter": 25,
+            "value": 11,
+            "label": "ŞENKAYA"
+        },
+        {
+            "filter": 25,
+            "value": 12,
+            "label": "TEKMAN"
+        },
+        {
+            "filter": 25,
+            "value": 13,
+            "label": "TORTUM"
+        },
+        {
+            "filter": 25,
+            "value": 14,
+            "label": "KARAÇOBAN"
+        },
+        {
+            "filter": 25,
+            "value": 15,
+            "label": "UZUNDERE"
+        },
+        {
+            "filter": 25,
+            "value": 16,
+            "label": "PAZARYOLU"
+        },
+        {
+            "filter": 25,
+            "value": 17,
+            "label": "KÖPRÜKÖY"
+        },
+        {
+            "filter": 25,
+            "value": 18,
+            "label": "AZİZİYE"
+        },
+        {
+            "filter": 25,
+            "value": 19,
+            "label": "İPTAL"
+        },
+        {
+            "filter": 25,
+            "value": 20,
+            "label": "PALANDÖKEN"
+        },
+        {
+            "filter": 25,
+            "value": 21,
+            "label": "YAKUTİYE"
+        },
+        {
+            "filter": 26,
+            "value": 0,
+            "label": "ESKİŞEHİR MERKEZ"
+        },
+        {
+            "filter": 26,
+            "value": 1,
+            "label": "ÇİFTELER"
+        },
+        {
+            "filter": 26,
+            "value": 2,
+            "label": "MAHMUDİYE"
+        },
+        {
+            "filter": 26,
+            "value": 3,
+            "label": "MİHALIÇÇIK"
+        },
+        {
+            "filter": 26,
+            "value": 4,
+            "label": "SARICAKAYA"
+        },
+        {
+            "filter": 26,
+            "value": 5,
+            "label": "SEYİTGAZİ"
+        },
+        {
+            "filter": 26,
+            "value": 6,
+            "label": "SİVRİHİSAR"
+        },
+        {
+            "filter": 26,
+            "value": 7,
+            "label": "ALPU"
+        },
+        {
+            "filter": 26,
+            "value": 8,
+            "label": "BEYLİKOVA"
+        },
+        {
+            "filter": 26,
+            "value": 9,
+            "label": "İNÖNÜ"
+        },
+        {
+            "filter": 26,
+            "value": 10,
+            "label": "GÜNYÜZÜ"
+        },
+        {
+            "filter": 26,
+            "value": 11,
+            "label": "HAN"
+        },
+        {
+            "filter": 26,
+            "value": 12,
+            "label": "MİHALGAZİ"
+        },
+        {
+            "filter": 26,
+            "value": 13,
+            "label": "ODUNPAZARI"
+        },
+        {
+            "filter": 26,
+            "value": 14,
+            "label": "TEPEBAŞI"
+        },
+        {
+            "filter": 26,
+            "value": 20,
+            "label": "Beylikova"
+        },
+        {
+            "filter": 27,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 27,
+            "value": 1,
+            "label": "ARABAN"
+        },
+        {
+            "filter": 27,
+            "value": 2,
+            "label": "İSLAHİYE"
+        },
+        {
+            "filter": 27,
+            "value": 3,
+            "label": "KARGAMIŞ"
+        },
+        {
+            "filter": 27,
+            "value": 4,
+            "label": "NİZİP"
+        },
+        {
+            "filter": 27,
+            "value": 5,
+            "label": "OĞUZELİ"
+        },
+        {
+            "filter": 27,
+            "value": 6,
+            "label": "YAVUZELİ"
+        },
+        {
+            "filter": 27,
+            "value": 7,
+            "label": "ŞAHİNBEY"
+        },
+        {
+            "filter": 27,
+            "value": 8,
+            "label": "ŞEHİTKAMİL"
+        },
+        {
+            "filter": 27,
+            "value": 9,
+            "label": "KARKAMIŞ"
+        },
+        {
+            "filter": 27,
+            "value": 10,
+            "label": "NURDAĞI"
+        },
+        {
+            "filter": 27,
+            "value": 11,
+            "label": "PAZARCIK"
+        },
+        {
+            "filter": 27,
+            "value": 14,
+            "label": "Yavuzeli"
+        },
+        {
+            "filter": 28,
+            "value": 0,
+            "label": "GİRESUN MERKEZ"
+        },
+        {
+            "filter": 28,
+            "value": 1,
+            "label": "ALUCRA"
+        },
+        {
+            "filter": 28,
+            "value": 2,
+            "label": "BULANCAK"
+        },
+        {
+            "filter": 28,
+            "value": 3,
+            "label": "DERELİ"
+        },
+        {
+            "filter": 28,
+            "value": 4,
+            "label": "ESPİYE"
+        },
+        {
+            "filter": 28,
+            "value": 5,
+            "label": "EYNESİL"
+        },
+        {
+            "filter": 28,
+            "value": 6,
+            "label": "GÖRELE"
+        },
+        {
+            "filter": 28,
+            "value": 7,
+            "label": "KEŞAP"
+        },
+        {
+            "filter": 28,
+            "value": 8,
+            "label": "ŞEBİNKARAHİSAR"
+        },
+        {
+            "filter": 28,
+            "value": 9,
+            "label": "TİREBOLU"
+        },
+        {
+            "filter": 28,
+            "value": 10,
+            "label": "PİRAZİZ"
+        },
+        {
+            "filter": 28,
+            "value": 11,
+            "label": "YAĞLIDERE"
+        },
+        {
+            "filter": 28,
+            "value": 12,
+            "label": "ÇANAKÇI"
+        },
+        {
+            "filter": 28,
+            "value": 13,
+            "label": "GÜCE"
+        },
+        {
+            "filter": 28,
+            "value": 14,
+            "label": "DOĞANKENT"
+        },
+        {
+            "filter": 28,
+            "value": 15,
+            "label": "TİREBOLU"
+        },
+        {
+            "filter": 28,
+            "value": 16,
+            "label": "YAĞLIDERE"
+        },
+        {
+            "filter": 28,
+            "value": 28,
+            "label": "ÇAMOLUK"
+        },
+        {
+            "filter": 29,
+            "value": 0,
+            "label": "GÜMÜŞHANE MERKEZ"
+        },
+        {
+            "filter": 29,
+            "value": 1,
+            "label": "KELKİT"
+        },
+        {
+            "filter": 29,
+            "value": 2,
+            "label": "ŞİRAN"
+        },
+        {
+            "filter": 29,
+            "value": 3,
+            "label": "TORUL"
+        },
+        {
+            "filter": 29,
+            "value": 4,
+            "label": "KÖSE"
+        },
+        {
+            "filter": 29,
+            "value": 5,
+            "label": "KÜRTÜN"
+        },
+        {
+            "filter": 29,
+            "value": 6,
+            "label": "TORUL"
+        },
+        {
+            "filter": 29,
+            "value": 16,
+            "label": "Kelkit"
+        },
+        {
+            "filter": 30,
+            "value": 0,
+            "label": "HAKKARİ MERKEZ"
+        },
+        {
+            "filter": 30,
+            "value": 1,
+            "label": "ÇUKURCA"
+        },
+        {
+            "filter": 30,
+            "value": 2,
+            "label": "ÇUKURCA"
+        },
+        {
+            "filter": 30,
+            "value": 3,
+            "label": "ŞEMDİNLİ"
+        },
+        {
+            "filter": 30,
+            "value": 4,
+            "label": "YÜKSEKOVA"
+        },
+        {
+            "filter": 30,
+            "value": 5,
+            "label": "YÜKSEKOVA"
+        },
+        {
+            "filter": 30,
+            "value": 18,
+            "label": "Yüksekova"
+        },
+        {
+            "filter": 31,
+            "value": 0,
+            "label": "HATAY MERKEZ"
+        },
+        {
+            "filter": 31,
+            "value": 1,
+            "label": "ALTINÖZÜ"
+        },
+        {
+            "filter": 31,
+            "value": 2,
+            "label": "DÖRTYOL"
+        },
+        {
+            "filter": 31,
+            "value": 3,
+            "label": "HASSA"
+        },
+        {
+            "filter": 31,
+            "value": 4,
+            "label": "İSKENDERUN"
+        },
+        {
+            "filter": 31,
+            "value": 5,
+            "label": "KIRIKHAN"
+        },
+        {
+            "filter": 31,
+            "value": 6,
+            "label": "REYHANLI"
+        },
+        {
+            "filter": 31,
+            "value": 7,
+            "label": "SAMANDAĞ"
+        },
+        {
+            "filter": 31,
+            "value": 8,
+            "label": "YAYLADAĞI"
+        },
+        {
+            "filter": 31,
+            "value": 9,
+            "label": "ERZİN"
+        },
+        {
+            "filter": 31,
+            "value": 10,
+            "label": "BELEN"
+        },
+        {
+            "filter": 31,
+            "value": 11,
+            "label": "KUMLU"
+        },
+        {
+            "filter": 31,
+            "value": 12,
+            "label": "YAYLADAĞI"
+        },
+        {
+            "filter": 31,
+            "value": 13,
+            "label": "Hassa"
+        },
+        {
+            "filter": 31,
+            "value": 14,
+            "label": "Dörtyol"
+        },
+        {
+            "filter": 31,
+            "value": 15,
+            "label": "İskenderun"
+        },
+        {
+            "filter": 31,
+            "value": 35,
+            "label": "ANTAKYA"
+        },
+        {
+            "filter": 32,
+            "value": 0,
+            "label": "ISPARTA MERKEZ"
+        },
+        {
+            "filter": 32,
+            "value": 1,
+            "label": "ATABEY"
+        },
+        {
+            "filter": 32,
+            "value": 2,
+            "label": "EĞİRDİR"
+        },
+        {
+            "filter": 32,
+            "value": 3,
+            "label": "GELENDOST"
+        },
+        {
+            "filter": 32,
+            "value": 4,
+            "label": "KEÇİBORLU"
+        },
+        {
+            "filter": 32,
+            "value": 5,
+            "label": "SENİRKENT"
+        },
+        {
+            "filter": 32,
+            "value": 6,
+            "label": "SÜTÇÜLER"
+        },
+        {
+            "filter": 32,
+            "value": 7,
+            "label": "ŞARKİKARAAĞAÇ"
+        },
+        {
+            "filter": 32,
+            "value": 8,
+            "label": "ULUBORLU"
+        },
+        {
+            "filter": 32,
+            "value": 9,
+            "label": "YALVAÇ"
+        },
+        {
+            "filter": 32,
+            "value": 10,
+            "label": "AKSU"
+        },
+        {
+            "filter": 32,
+            "value": 11,
+            "label": "GÖNEN"
+        },
+        {
+            "filter": 32,
+            "value": 12,
+            "label": "YENİŞARBADEMLİ"
+        },
+        {
+            "filter": 32,
+            "value": 13,
+            "label": "YENİŞARBADEMLİ"
+        },
+        {
+            "filter": 32,
+            "value": 15,
+            "label": "Uluborlu"
+        },
+        {
+            "filter": 33,
+            "value": 0,
+            "label": "MERSİN MERKEZ"
+        },
+        {
+            "filter": 33,
+            "value": 1,
+            "label": "ANAMUR"
+        },
+        {
+            "filter": 33,
+            "value": 2,
+            "label": "ERDEMLİ"
+        },
+        {
+            "filter": 33,
+            "value": 3,
+            "label": "GÜLNAR"
+        },
+        {
+            "filter": 33,
+            "value": 4,
+            "label": "MUT"
+        },
+        {
+            "filter": 33,
+            "value": 5,
+            "label": "SİLİFKE"
+        },
+        {
+            "filter": 33,
+            "value": 6,
+            "label": "TARSUS"
+        },
+        {
+            "filter": 33,
+            "value": 7,
+            "label": "AYDINCIK"
+        },
+        {
+            "filter": 33,
+            "value": 8,
+            "label": "BOZYAZI"
+        },
+        {
+            "filter": 33,
+            "value": 9,
+            "label": "ÇAMLIYAYLA"
+        },
+        {
+            "filter": 33,
+            "value": 10,
+            "label": "AKDENİZ"
+        },
+        {
+            "filter": 33,
+            "value": 11,
+            "label": "MEZİTLİ"
+        },
+        {
+            "filter": 33,
+            "value": 12,
+            "label": "TOROSLAR"
+        },
+        {
+            "filter": 33,
+            "value": 13,
+            "label": "YENİŞEHİR"
+        },
+        {
+            "filter": 34,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 34,
+            "value": 1,
+            "label": "ADALAR"
+        },
+        {
+            "filter": 34,
+            "value": 2,
+            "label": "BAKIRKÖY"
+        },
+        {
+            "filter": 34,
+            "value": 3,
+            "label": "BEŞİKTAŞ"
+        },
+        {
+            "filter": 34,
+            "value": 4,
+            "label": "BEYKOZ"
+        },
+        {
+            "filter": 34,
+            "value": 5,
+            "label": "BEYOĞLU"
+        },
+        {
+            "filter": 34,
+            "value": 6,
+            "label": "EMİNÖNÜ"
+        },
+        {
+            "filter": 34,
+            "value": 7,
+            "label": "EYÜP"
+        },
+        {
+            "filter": 34,
+            "value": 8,
+            "label": "FATİH"
+        },
+        {
+            "filter": 34,
+            "value": 9,
+            "label": "GAZİOSMANPAŞA"
+        },
+        {
+            "filter": 34,
+            "value": 10,
+            "label": "KADIKÖY"
+        },
+        {
+            "filter": 34,
+            "value": 11,
+            "label": "KARTAL"
+        },
+        {
+            "filter": 34,
+            "value": 12,
+            "label": "SARIYER"
+        },
+        {
+            "filter": 34,
+            "value": 13,
+            "label": "ÜSKÜDAR"
+        },
+        {
+            "filter": 34,
+            "value": 14,
+            "label": "ŞİŞLİ"
+        },
+        {
+            "filter": 34,
+            "value": 15,
+            "label": "ZEYTİNBURNU"
+        },
+        {
+            "filter": 34,
+            "value": 16,
+            "label": "ÇATALCA"
+        },
+        {
+            "filter": 34,
+            "value": 17,
+            "label": "SİLİVRİ"
+        },
+        {
+            "filter": 34,
+            "value": 18,
+            "label": "ŞİLE"
+        },
+        {
+            "filter": 34,
+            "value": 19,
+            "label": "KAĞITHANE"
+        },
+        {
+            "filter": 34,
+            "value": 20,
+            "label": "PENDİK"
+        },
+        {
+            "filter": 34,
+            "value": 21,
+            "label": "KÜÇÜKÇEKMECE"
+        },
+        {
+            "filter": 34,
+            "value": 22,
+            "label": "BÜYÜKÇEKMECE"
+        },
+        {
+            "filter": 34,
+            "value": 23,
+            "label": "ÜMRANİYE"
+        },
+        {
+            "filter": 34,
+            "value": 24,
+            "label": "KAĞITHANE"
+        },
+        {
+            "filter": 34,
+            "value": 25,
+            "label": "BAYRAMPAŞA"
+        },
+        {
+            "filter": 34,
+            "value": 26,
+            "label": "AVCILAR"
+        },
+        {
+            "filter": 34,
+            "value": 27,
+            "label": "BAĞCILAR"
+        },
+        {
+            "filter": 34,
+            "value": 28,
+            "label": "BAHÇELİEVLER"
+        },
+        {
+            "filter": 34,
+            "value": 29,
+            "label": "GÜNGÖREN"
+        },
+        {
+            "filter": 34,
+            "value": 30,
+            "label": "MALTEPE"
+        },
+        {
+            "filter": 34,
+            "value": 31,
+            "label": "SULTANBEYLİ"
+        },
+        {
+            "filter": 34,
+            "value": 32,
+            "label": "TUZLA"
+        },
+        {
+            "filter": 34,
+            "value": 33,
+            "label": "ESENLER"
+        },
+        {
+            "filter": 34,
+            "value": 34,
+            "label": "SULTANGAZİ"
+        },
+        {
+            "filter": 34,
+            "value": 35,
+            "label": "ARNAVUTKÖY"
+        },
+        {
+            "filter": 34,
+            "value": 36,
+            "label": "ATAŞEHİR"
+        },
+        {
+            "filter": 34,
+            "value": 37,
+            "label": "BAŞAKŞEHİR"
+        },
+        {
+            "filter": 34,
+            "value": 38,
+            "label": "BEYLİKDÜZÜ"
+        },
+        {
+            "filter": 34,
+            "value": 39,
+            "label": "ÇEKMEKÖY"
+        },
+        {
+            "filter": 34,
+            "value": 40,
+            "label": "ESENYURT"
+        },
+        {
+            "filter": 34,
+            "value": 41,
+            "label": "SANCAKTEPE"
+        },
+        {
+            "filter": 35,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 35,
+            "value": 1,
+            "label": "BORNOVA"
+        },
+        {
+            "filter": 35,
+            "value": 2,
+            "label": "KARŞIYAK"
+        },
+        {
+            "filter": 35,
+            "value": 3,
+            "label": "ALİAĞA"
+        },
+        {
+            "filter": 35,
+            "value": 4,
+            "label": "BAYINDIR"
+        },
+        {
+            "filter": 35,
+            "value": 5,
+            "label": "BERGAMA"
+        },
+        {
+            "filter": 35,
+            "value": 6,
+            "label": "ÇEŞME"
+        },
+        {
+            "filter": 35,
+            "value": 7,
+            "label": "DİKİLİ"
+        },
+        {
+            "filter": 35,
+            "value": 8,
+            "label": "FOÇA"
+        },
+        {
+            "filter": 35,
+            "value": 9,
+            "label": "KARABURU"
+        },
+        {
+            "filter": 35,
+            "value": 10,
+            "label": "KEMALPAŞ"
+        },
+        {
+            "filter": 35,
+            "value": 11,
+            "label": "KINIK"
+        },
+        {
+            "filter": 35,
+            "value": 12,
+            "label": "KİRAZ"
+        },
+        {
+            "filter": 35,
+            "value": 13,
+            "label": "MENEMEN"
+        },
+        {
+            "filter": 35,
+            "value": 14,
+            "label": "ÖDEMİŞ"
+        },
+        {
+            "filter": 35,
+            "value": 15,
+            "label": "SEFERİHİSAR"
+        },
+        {
+            "filter": 35,
+            "value": 16,
+            "label": "SELÇUK"
+        },
+        {
+            "filter": 35,
+            "value": 17,
+            "label": "TİRE"
+        },
+        {
+            "filter": 35,
+            "value": 18,
+            "label": "TORBALI"
+        },
+        {
+            "filter": 35,
+            "value": 19,
+            "label": "URLA"
+        },
+        {
+            "filter": 35,
+            "value": 20,
+            "label": "BUCA"
+        },
+        {
+            "filter": 35,
+            "value": 21,
+            "label": "MENDERES"
+        },
+        {
+            "filter": 35,
+            "value": 22,
+            "label": "KONAK"
+        },
+        {
+            "filter": 35,
+            "value": 23,
+            "label": "BEYDAĞ"
+        },
+        {
+            "filter": 35,
+            "value": 24,
+            "label": "BALÇOVA"
+        },
+        {
+            "filter": 35,
+            "value": 25,
+            "label": "ÇİĞLİ"
+        },
+        {
+            "filter": 35,
+            "value": 26,
+            "label": "GAZİEMİR"
+        },
+        {
+            "filter": 35,
+            "value": 27,
+            "label": "NARLIDERE"
+        },
+        {
+            "filter": 35,
+            "value": 28,
+            "label": "GÜZELBAHÇE"
+        },
+        {
+            "filter": 35,
+            "value": 29,
+            "label": "BAYRAKLI"
+        },
+        {
+            "filter": 35,
+            "value": 30,
+            "label": "KARABAĞLAR"
+        },
+        {
+            "filter": 35,
+            "value": 31,
+            "label": "KARABAĞLAR"
+        },
+        {
+            "filter": 35,
+            "value": 39,
+            "label": "Tire"
+        },
+        {
+            "filter": 35,
+            "value": 100,
+            "label": "ALSANCAK"
+        },
+        {
+            "filter": 36,
+            "value": 0,
+            "label": "KARS MERKEZ"
+        },
+        {
+            "filter": 36,
+            "value": 1,
+            "label": "AKYAKA"
+        },
+        {
+            "filter": 36,
+            "value": 2,
+            "label": "ARPAÇAY"
+        },
+        {
+            "filter": 36,
+            "value": 3,
+            "label": "ARPAÇAY"
+        },
+        {
+            "filter": 36,
+            "value": 4,
+            "label": "KAĞIZMAN"
+        },
+        {
+            "filter": 36,
+            "value": 5,
+            "label": "DİGOR"
+        },
+        {
+            "filter": 36,
+            "value": 6,
+            "label": "SARIKAMIŞ"
+        },
+        {
+            "filter": 36,
+            "value": 7,
+            "label": "SELİM"
+        },
+        {
+            "filter": 36,
+            "value": 8,
+            "label": "SUSUZ"
+        },
+        {
+            "filter": 36,
+            "value": 9,
+            "label": "KAĞIZMAN"
+        },
+        {
+            "filter": 36,
+            "value": 11,
+            "label": "SARIKAMIŞ"
+        },
+        {
+            "filter": 36,
+            "value": 12,
+            "label": "SELİM"
+        },
+        {
+            "filter": 36,
+            "value": 13,
+            "label": "SUSUZ"
+        },
+        {
+            "filter": 36,
+            "value": 15,
+            "label": "AKYAKA"
+        },
+        {
+            "filter": 36,
+            "value": 30,
+            "label": "Akyaka"
+        },
+        {
+            "filter": 37,
+            "value": 0,
+            "label": "KASTAMONU MERKEZ"
+        },
+        {
+            "filter": 37,
+            "value": 1,
+            "label": "ABANA"
+        },
+        {
+            "filter": 37,
+            "value": 2,
+            "label": "ARAÇ"
+        },
+        {
+            "filter": 37,
+            "value": 3,
+            "label": "AZDAVAY"
+        },
+        {
+            "filter": 37,
+            "value": 4,
+            "label": "BOZKURT"
+        },
+        {
+            "filter": 37,
+            "value": 5,
+            "label": "CİDE"
+        },
+        {
+            "filter": 37,
+            "value": 6,
+            "label": "ÇATALZEYTİN"
+        },
+        {
+            "filter": 37,
+            "value": 7,
+            "label": "DADAY"
+        },
+        {
+            "filter": 37,
+            "value": 8,
+            "label": "DEVREKANİ"
+        },
+        {
+            "filter": 37,
+            "value": 9,
+            "label": "İNEBOLU"
+        },
+        {
+            "filter": 37,
+            "value": 10,
+            "label": "KÜRE"
+        },
+        {
+            "filter": 37,
+            "value": 11,
+            "label": "TAŞKÖPRÜ"
+        },
+        {
+            "filter": 37,
+            "value": 12,
+            "label": "TOSYA"
+        },
+        {
+            "filter": 37,
+            "value": 13,
+            "label": "İHSANGAZİ"
+        },
+        {
+            "filter": 37,
+            "value": 14,
+            "label": "PINARBAŞI"
+        },
+        {
+            "filter": 37,
+            "value": 15,
+            "label": "ŞENPAZAR"
+        },
+        {
+            "filter": 37,
+            "value": 16,
+            "label": "AĞLI"
+        },
+        {
+            "filter": 37,
+            "value": 17,
+            "label": "DOĞANYURT"
+        },
+        {
+            "filter": 37,
+            "value": 18,
+            "label": "HANÖNÜ"
+        },
+        {
+            "filter": 37,
+            "value": 19,
+            "label": "SEYDİLER"
+        },
+        {
+            "filter": 37,
+            "value": 20,
+            "label": "TOSYA"
+        },
+        {
+            "filter": 38,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 38,
+            "value": 1,
+            "label": "BÜNYAN"
+        },
+        {
+            "filter": 38,
+            "value": 2,
+            "label": "DEVELİ"
+        },
+        {
+            "filter": 38,
+            "value": 3,
+            "label": "FELAHİYE"
+        },
+        {
+            "filter": 38,
+            "value": 4,
+            "label": "İNCESU"
+        },
+        {
+            "filter": 38,
+            "value": 5,
+            "label": "PINARBAŞI"
+        },
+        {
+            "filter": 38,
+            "value": 6,
+            "label": "SARIOĞLAN"
+        },
+        {
+            "filter": 38,
+            "value": 7,
+            "label": "SARIZ"
+        },
+        {
+            "filter": 38,
+            "value": 8,
+            "label": "TOMARZA"
+        },
+        {
+            "filter": 38,
+            "value": 9,
+            "label": "YAHYALI"
+        },
+        {
+            "filter": 38,
+            "value": 10,
+            "label": "YEŞİLHİSAR"
+        },
+        {
+            "filter": 38,
+            "value": 11,
+            "label": "AKKIŞLA"
+        },
+        {
+            "filter": 38,
+            "value": 12,
+            "label": "TALAS"
+        },
+        {
+            "filter": 38,
+            "value": 13,
+            "label": "MELİKGAZİ"
+        },
+        {
+            "filter": 38,
+            "value": 14,
+            "label": "KOCASİNAN"
+        },
+        {
+            "filter": 38,
+            "value": 15,
+            "label": "HACILAR"
+        },
+        {
+            "filter": 38,
+            "value": 16,
+            "label": "ÖZVATAN"
+        },
+        {
+            "filter": 38,
+            "value": 20,
+            "label": "Yeşilhisar"
+        },
+        {
+            "filter": 38,
+            "value": 54,
+            "label": "KAYSERİ MERKEZ"
+        },
+        {
+            "filter": 39,
+            "value": 0,
+            "label": "KIRKLARELİ MERKEZ"
+        },
+        {
+            "filter": 39,
+            "value": 1,
+            "label": "BABAESKİ"
+        },
+        {
+            "filter": 39,
+            "value": 2,
+            "label": "DEMİRKÖY"
+        },
+        {
+            "filter": 39,
+            "value": 3,
+            "label": "KOFÇAZ"
+        },
+        {
+            "filter": 39,
+            "value": 4,
+            "label": "LÜLEBURGAZ"
+        },
+        {
+            "filter": 39,
+            "value": 5,
+            "label": "PEHLİVANKÖY"
+        },
+        {
+            "filter": 39,
+            "value": 6,
+            "label": "PINARHİSAR"
+        },
+        {
+            "filter": 39,
+            "value": 7,
+            "label": "VİZE"
+        },
+        {
+            "filter": 39,
+            "value": 8,
+            "label": "VİZE"
+        },
+        {
+            "filter": 39,
+            "value": 16,
+            "label": "Vize"
+        },
+        {
+            "filter": 40,
+            "value": 0,
+            "label": "KIRŞEHİR MERKEZ"
+        },
+        {
+            "filter": 40,
+            "value": 1,
+            "label": "ÇİÇEKDAĞI"
+        },
+        {
+            "filter": 40,
+            "value": 2,
+            "label": "KAMAN"
+        },
+        {
+            "filter": 40,
+            "value": 3,
+            "label": "MUCUR"
+        },
+        {
+            "filter": 40,
+            "value": 4,
+            "label": "AKPINAR"
+        },
+        {
+            "filter": 40,
+            "value": 5,
+            "label": "AKÇAKENT"
+        },
+        {
+            "filter": 40,
+            "value": 6,
+            "label": "BOZTEPE"
+        },
+        {
+            "filter": 40,
+            "value": 7,
+            "label": "MUCUR"
+        },
+        {
+            "filter": 40,
+            "value": 8,
+            "label": "Kırşehir Merkez"
+        },
+        {
+            "filter": 41,
+            "value": 0,
+            "label": "KOCAELİ MERKEZ"
+        },
+        {
+            "filter": 41,
+            "value": 1,
+            "label": "GEBZE"
+        },
+        {
+            "filter": 41,
+            "value": 2,
+            "label": "GÖLCÜK"
+        },
+        {
+            "filter": 41,
+            "value": 3,
+            "label": "KANDIRA"
+        },
+        {
+            "filter": 41,
+            "value": 4,
+            "label": "KARAMÜRSEL"
+        },
+        {
+            "filter": 41,
+            "value": 5,
+            "label": "KÖRFEZ"
+        },
+        {
+            "filter": 41,
+            "value": 6,
+            "label": "DERİNCE"
+        },
+        {
+            "filter": 41,
+            "value": 7,
+            "label": "BAŞİSKELE"
+        },
+        {
+            "filter": 41,
+            "value": 8,
+            "label": "DİLOVASI"
+        },
+        {
+            "filter": 41,
+            "value": 9,
+            "label": "DARICA"
+        },
+        {
+            "filter": 41,
+            "value": 10,
+            "label": "KARTEPE"
+        },
+        {
+            "filter": 41,
+            "value": 11,
+            "label": "ÇAYIROVA"
+        },
+        {
+            "filter": 41,
+            "value": 12,
+            "label": "İZMİT"
+        },
+        {
+            "filter": 41,
+            "value": 35,
+            "label": "İZMİT"
+        },
+        {
+            "filter": 42,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 42,
+            "value": 1,
+            "label": "AKŞEHİR"
+        },
+        {
+            "filter": 42,
+            "value": 2,
+            "label": "BEYŞEHİR"
+        },
+        {
+            "filter": 42,
+            "value": 3,
+            "label": "BOZKIR"
+        },
+        {
+            "filter": 42,
+            "value": 4,
+            "label": "CİHANBEYLİ"
+        },
+        {
+            "filter": 42,
+            "value": 5,
+            "label": "ÇUMRA"
+        },
+        {
+            "filter": 42,
+            "value": 6,
+            "label": "DOĞANHİSAR"
+        },
+        {
+            "filter": 42,
+            "value": 7,
+            "label": "EREĞLİ"
+        },
+        {
+            "filter": 42,
+            "value": 8,
+            "label": "ÇELTİK"
+        },
+        {
+            "filter": 42,
+            "value": 9,
+            "label": "HADİM"
+        },
+        {
+            "filter": 42,
+            "value": 10,
+            "label": "ILGIN"
+        },
+        {
+            "filter": 42,
+            "value": 11,
+            "label": "KADINHANI"
+        },
+        {
+            "filter": 42,
+            "value": 12,
+            "label": "DOĞANHİSAR"
+        },
+        {
+            "filter": 42,
+            "value": 13,
+            "label": "KARAPINAR"
+        },
+        {
+            "filter": 42,
+            "value": 14,
+            "label": "KULU"
+        },
+        {
+            "filter": 42,
+            "value": 15,
+            "label": "SARAYÖNÜ"
+        },
+        {
+            "filter": 42,
+            "value": 16,
+            "label": "SEYDİŞEHİR"
+        },
+        {
+            "filter": 42,
+            "value": 17,
+            "label": "YUNAK"
+        },
+        {
+            "filter": 42,
+            "value": 18,
+            "label": "AKÖREN"
+        },
+        {
+            "filter": 42,
+            "value": 19,
+            "label": "ALTINEKİN"
+        },
+        {
+            "filter": 42,
+            "value": 20,
+            "label": "KADINHANI"
+        },
+        {
+            "filter": 42,
+            "value": 21,
+            "label": "DEREBUCAK"
+        },
+        {
+            "filter": 42,
+            "value": 22,
+            "label": "HÜYÜK"
+        },
+        {
+            "filter": 42,
+            "value": 23,
+            "label": "TAŞKENT"
+        },
+        {
+            "filter": 42,
+            "value": 24,
+            "label": "KARATAY"
+        },
+        {
+            "filter": 42,
+            "value": 25,
+            "label": "MERAM"
+        },
+        {
+            "filter": 42,
+            "value": 26,
+            "label": "SELÇUKLU"
+        },
+        {
+            "filter": 42,
+            "value": 27,
+            "label": "AHIRLI"
+        },
+        {
+            "filter": 42,
+            "value": 28,
+            "label": "ÇELTİK"
+        },
+        {
+            "filter": 42,
+            "value": 29,
+            "label": "DERBENT"
+        },
+        {
+            "filter": 42,
+            "value": 30,
+            "label": "EMİRGAZİ"
+        },
+        {
+            "filter": 42,
+            "value": 31,
+            "label": "GÜNEYSINIR"
+        },
+        {
+            "filter": 42,
+            "value": 32,
+            "label": "HALKAPINAR"
+        },
+        {
+            "filter": 42,
+            "value": 33,
+            "label": "TUZLUKÇU"
+        },
+        {
+            "filter": 42,
+            "value": 34,
+            "label": "YALIHÜYÜK"
+        },
+        {
+            "filter": 43,
+            "value": 0,
+            "label": "KÜTAHYA MERKEZ"
+        },
+        {
+            "filter": 43,
+            "value": 1,
+            "label": "ALTINTAŞ"
+        },
+        {
+            "filter": 43,
+            "value": 2,
+            "label": "DOMANİÇ"
+        },
+        {
+            "filter": 43,
+            "value": 3,
+            "label": "EMET"
+        },
+        {
+            "filter": 43,
+            "value": 4,
+            "label": "GEDİZ"
+        },
+        {
+            "filter": 43,
+            "value": 5,
+            "label": "SİMAV"
+        },
+        {
+            "filter": 43,
+            "value": 6,
+            "label": "TAVŞANLI"
+        },
+        {
+            "filter": 43,
+            "value": 7,
+            "label": "ASLANAPA"
+        },
+        {
+            "filter": 43,
+            "value": 8,
+            "label": "ŞAPHANE"
+        },
+        {
+            "filter": 43,
+            "value": 9,
+            "label": "DUMLUPINAR"
+        },
+        {
+            "filter": 43,
+            "value": 10,
+            "label": "HİSARCIK"
+        },
+        {
+            "filter": 43,
+            "value": 11,
+            "label": "ÇAVDARHİSAR"
+        },
+        {
+            "filter": 43,
+            "value": 12,
+            "label": "PAZARLAR"
+        },
+        {
+            "filter": 43,
+            "value": 13,
+            "label": "TAVŞANLI"
+        },
+        {
+            "filter": 43,
+            "value": 31,
+            "label": "Tavşanlı"
+        },
+        {
+            "filter": 44,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 44,
+            "value": 1,
+            "label": "AKÇADAĞ"
+        },
+        {
+            "filter": 44,
+            "value": 2,
+            "label": "ARAPGİR"
+        },
+        {
+            "filter": 44,
+            "value": 3,
+            "label": "ARGUVAN"
+        },
+        {
+            "filter": 44,
+            "value": 4,
+            "label": "DARENDE"
+        },
+        {
+            "filter": 44,
+            "value": 5,
+            "label": "DOĞANŞEHİR"
+        },
+        {
+            "filter": 44,
+            "value": 6,
+            "label": "HEKİMHAN"
+        },
+        {
+            "filter": 44,
+            "value": 7,
+            "label": "PÜTÜRGE"
+        },
+        {
+            "filter": 44,
+            "value": 8,
+            "label": "YEŞİLYURT"
+        },
+        {
+            "filter": 44,
+            "value": 9,
+            "label": "BATTALGAZİ"
+        },
+        {
+            "filter": 44,
+            "value": 10,
+            "label": "DOĞANYOL"
+        },
+        {
+            "filter": 44,
+            "value": 11,
+            "label": "KALE"
+        },
+        {
+            "filter": 44,
+            "value": 12,
+            "label": "KULUNCAK"
+        },
+        {
+            "filter": 44,
+            "value": 13,
+            "label": "YAZIHAN"
+        },
+        {
+            "filter": 44,
+            "value": 14,
+            "label": "YEŞİLYURT"
+        },
+        {
+            "filter": 45,
+            "value": 0,
+            "label": "MANİSA MERKEZ"
+        },
+        {
+            "filter": 45,
+            "value": 1,
+            "label": "AKHİSAR"
+        },
+        {
+            "filter": 45,
+            "value": 2,
+            "label": "ALAŞEHİR"
+        },
+        {
+            "filter": 45,
+            "value": 3,
+            "label": "DEMİRCİ"
+        },
+        {
+            "filter": 45,
+            "value": 4,
+            "label": "GÖRDES"
+        },
+        {
+            "filter": 45,
+            "value": 5,
+            "label": "KIRKAĞAÇ"
+        },
+        {
+            "filter": 45,
+            "value": 6,
+            "label": "KULA"
+        },
+        {
+            "filter": 45,
+            "value": 7,
+            "label": "SALİHLİ"
+        },
+        {
+            "filter": 45,
+            "value": 8,
+            "label": "SARIGÖL"
+        },
+        {
+            "filter": 45,
+            "value": 9,
+            "label": "SARUHANLI"
+        },
+        {
+            "filter": 45,
+            "value": 10,
+            "label": "SELENDİ"
+        },
+        {
+            "filter": 45,
+            "value": 11,
+            "label": "SOMA"
+        },
+        {
+            "filter": 45,
+            "value": 12,
+            "label": "TURGUTLU"
+        },
+        {
+            "filter": 45,
+            "value": 13,
+            "label": "AHMETLİ"
+        },
+        {
+            "filter": 45,
+            "value": 14,
+            "label": "GÖLMARMARA"
+        },
+        {
+            "filter": 45,
+            "value": 15,
+            "label": "KÖPRÜBAŞI"
+        },
+        {
+            "filter": 45,
+            "value": 16,
+            "label": "TURGUTLU"
+        },
+        {
+            "filter": 45,
+            "value": 17,
+            "label": "Demirci"
+        },
+        {
+            "filter": 45,
+            "value": 99,
+            "label": "ŞEHZADELER"
+        },
+        {
+            "filter": 45,
+            "value": 100,
+            "label": "YUNUSEMRE"
+        },
+        {
+            "filter": 46,
+            "value": 0,
+            "label": "KAHRAMANMARAŞ MERKEZ"
+        },
+        {
+            "filter": 46,
+            "value": 1,
+            "label": "AFŞİN"
+        },
+        {
+            "filter": 46,
+            "value": 2,
+            "label": "ANDIRIN"
+        },
+        {
+            "filter": 46,
+            "value": 3,
+            "label": "ELBİSTAN"
+        },
+        {
+            "filter": 46,
+            "value": 4,
+            "label": "GÖKSUN"
+        },
+        {
+            "filter": 46,
+            "value": 5,
+            "label": "PAZARCIK"
+        },
+        {
+            "filter": 46,
+            "value": 6,
+            "label": "TÜRKOĞLU"
+        },
+        {
+            "filter": 46,
+            "value": 7,
+            "label": "ÇAĞLAYANCERİT"
+        },
+        {
+            "filter": 46,
+            "value": 8,
+            "label": "EKİNÖZÜ"
+        },
+        {
+            "filter": 46,
+            "value": 9,
+            "label": "NURHAK"
+        },
+        {
+            "filter": 46,
+            "value": 10,
+            "label": "TÜRKOĞLU"
+        },
+        {
+            "filter": 46,
+            "value": 11,
+            "label": "Elbistan"
+        },
+        {
+            "filter": 46,
+            "value": 17,
+            "label": "DULKADİROĞLU"
+        },
+        {
+            "filter": 46,
+            "value": 18,
+            "label": "ONİKİŞUBAT"
+        },
+        {
+            "filter": 47,
+            "value": 0,
+            "label": "MARDİN MERKEZ"
+        },
+        {
+            "filter": 47,
+            "value": 1,
+            "label": "DARGEÇİT"
+        },
+        {
+            "filter": 47,
+            "value": 2,
+            "label": "DERİK"
+        },
+        {
+            "filter": 47,
+            "value": 3,
+            "label": "KIZILTEPE"
+        },
+        {
+            "filter": 47,
+            "value": 4,
+            "label": "MAZIDAĞI"
+        },
+        {
+            "filter": 47,
+            "value": 5,
+            "label": "KIZILTEPE"
+        },
+        {
+            "filter": 47,
+            "value": 6,
+            "label": "MAZIDAĞI"
+        },
+        {
+            "filter": 47,
+            "value": 7,
+            "label": "MİDYAT"
+        },
+        {
+            "filter": 47,
+            "value": 8,
+            "label": "NUSAYBİN"
+        },
+        {
+            "filter": 47,
+            "value": 9,
+            "label": "ÖMERLİ"
+        },
+        {
+            "filter": 47,
+            "value": 10,
+            "label": "SAVUR"
+        },
+        {
+            "filter": 47,
+            "value": 11,
+            "label": "Dargeçit"
+        },
+        {
+            "filter": 47,
+            "value": 12,
+            "label": "DARGEÇİT"
+        },
+        {
+            "filter": 47,
+            "value": 14,
+            "label": "YEŞİLLİ"
+        },
+        {
+            "filter": 48,
+            "value": 0,
+            "label": "MUĞLA MERKEZ"
+        },
+        {
+            "filter": 48,
+            "value": 1,
+            "label": "BODRUM"
+        },
+        {
+            "filter": 48,
+            "value": 2,
+            "label": "DALAMAN"
+        },
+        {
+            "filter": 48,
+            "value": 3,
+            "label": "FETHİYE"
+        },
+        {
+            "filter": 48,
+            "value": 4,
+            "label": "DATÇA"
+        },
+        {
+            "filter": 48,
+            "value": 5,
+            "label": "KÖYCEĞİZ"
+        },
+        {
+            "filter": 48,
+            "value": 6,
+            "label": "MARMARİS"
+        },
+        {
+            "filter": 48,
+            "value": 7,
+            "label": "MİLAS"
+        },
+        {
+            "filter": 48,
+            "value": 8,
+            "label": "ULA"
+        },
+        {
+            "filter": 48,
+            "value": 9,
+            "label": "YATAĞAN"
+        },
+        {
+            "filter": 48,
+            "value": 10,
+            "label": "ORTACA"
+        },
+        {
+            "filter": 48,
+            "value": 11,
+            "label": "KAVAKLIDERE"
+        },
+        {
+            "filter": 48,
+            "value": 12,
+            "label": "YATAĞAN"
+        },
+        {
+            "filter": 48,
+            "value": 13,
+            "label": "MENTEŞE"
+        },
+        {
+            "filter": 48,
+            "value": 14,
+            "label": "SEYDİKEMER"
+        },
+        {
+            "filter": 49,
+            "value": 0,
+            "label": "MUŞ MERKEZ"
+        },
+        {
+            "filter": 49,
+            "value": 1,
+            "label": "BULANIK"
+        },
+        {
+            "filter": 49,
+            "value": 2,
+            "label": "MALAZGİRT"
+        },
+        {
+            "filter": 49,
+            "value": 3,
+            "label": "VARTO"
+        },
+        {
+            "filter": 49,
+            "value": 4,
+            "label": "HASKÖY"
+        },
+        {
+            "filter": 49,
+            "value": 5,
+            "label": "KORKUT"
+        },
+        {
+            "filter": 49,
+            "value": 6,
+            "label": "VARTO"
+        },
+        {
+            "filter": 49,
+            "value": 13,
+            "label": "Varto"
+        },
+        {
+            "filter": 50,
+            "value": 0,
+            "label": "NEVŞEHİR MERKEZ"
+        },
+        {
+            "filter": 50,
+            "value": 1,
+            "label": "AVANOS"
+        },
+        {
+            "filter": 50,
+            "value": 2,
+            "label": "DERİNKUYU"
+        },
+        {
+            "filter": 50,
+            "value": 3,
+            "label": "GÜLŞEHİR"
+        },
+        {
+            "filter": 50,
+            "value": 4,
+            "label": "HACIBEKTAŞ"
+        },
+        {
+            "filter": 50,
+            "value": 5,
+            "label": "KOZAKLI"
+        },
+        {
+            "filter": 50,
+            "value": 6,
+            "label": "ÜRGÜP"
+        },
+        {
+            "filter": 50,
+            "value": 7,
+            "label": "ACIGÖL"
+        },
+        {
+            "filter": 50,
+            "value": 8,
+            "label": "ÜRGÜP"
+        },
+        {
+            "filter": 51,
+            "value": 0,
+            "label": "NİĞDE MERKEZ"
+        },
+        {
+            "filter": 51,
+            "value": 1,
+            "label": "ALTUNHİSAR"
+        },
+        {
+            "filter": 51,
+            "value": 2,
+            "label": "BOR"
+        },
+        {
+            "filter": 51,
+            "value": 3,
+            "label": "ÇAMARDI"
+        },
+        {
+            "filter": 51,
+            "value": 4,
+            "label": "ÇİFTLİK"
+        },
+        {
+            "filter": 51,
+            "value": 5,
+            "label": "ULUKIŞLA"
+        },
+        {
+            "filter": 51,
+            "value": 6,
+            "label": "ALTUNHİSAR"
+        },
+        {
+            "filter": 51,
+            "value": 7,
+            "label": "ÇİFTLİK"
+        },
+        {
+            "filter": 51,
+            "value": 8,
+            "label": "Niğde Merkez"
+        },
+        {
+            "filter": 52,
+            "value": 0,
+            "label": "ORDU MERKEZ"
+        },
+        {
+            "filter": 52,
+            "value": 1,
+            "label": "AKKUŞ"
+        },
+        {
+            "filter": 52,
+            "value": 2,
+            "label": "AYBASTI"
+        },
+        {
+            "filter": 52,
+            "value": 3,
+            "label": "FATSA"
+        },
+        {
+            "filter": 52,
+            "value": 4,
+            "label": "GÖLKÖY"
+        },
+        {
+            "filter": 52,
+            "value": 5,
+            "label": "KORGAN"
+        },
+        {
+            "filter": 52,
+            "value": 6,
+            "label": "KUMRU"
+        },
+        {
+            "filter": 52,
+            "value": 7,
+            "label": "MESUDİYE"
+        },
+        {
+            "filter": 52,
+            "value": 8,
+            "label": "PERŞEMBE"
+        },
+        {
+            "filter": 52,
+            "value": 9,
+            "label": "ULUBEY"
+        },
+        {
+            "filter": 52,
+            "value": 10,
+            "label": "ÜNYE"
+        },
+        {
+            "filter": 52,
+            "value": 11,
+            "label": "GÜLYALI"
+        },
+        {
+            "filter": 52,
+            "value": 12,
+            "label": "GÜRGENTEPE"
+        },
+        {
+            "filter": 52,
+            "value": 13,
+            "label": "ÇAMAŞ"
+        },
+        {
+            "filter": 52,
+            "value": 14,
+            "label": "ÇATALPINAR"
+        },
+        {
+            "filter": 52,
+            "value": 15,
+            "label": "ÇAYBAŞI"
+        },
+        {
+            "filter": 52,
+            "value": 16,
+            "label": "İKİZCE"
+        },
+        {
+            "filter": 52,
+            "value": 17,
+            "label": "KABADÜZ"
+        },
+        {
+            "filter": 52,
+            "value": 18,
+            "label": "KABATAŞ"
+        },
+        {
+            "filter": 52,
+            "value": 19,
+            "label": "ÜNYE"
+        },
+        {
+            "filter": 52,
+            "value": 98,
+            "label": "ALTINORDU"
+        },
+        {
+            "filter": 53,
+            "value": 0,
+            "label": "RİZE MERKEZ"
+        },
+        {
+            "filter": 53,
+            "value": 1,
+            "label": "ARDEŞEN"
+        },
+        {
+            "filter": 53,
+            "value": 2,
+            "label": "ÇAMLIHEMŞİN"
+        },
+        {
+            "filter": 53,
+            "value": 3,
+            "label": "ÇAYELİ"
+        },
+        {
+            "filter": 53,
+            "value": 4,
+            "label": "FINDIKLI"
+        },
+        {
+            "filter": 53,
+            "value": 5,
+            "label": "İKİZDERE"
+        },
+        {
+            "filter": 53,
+            "value": 6,
+            "label": "KALKANDERE"
+        },
+        {
+            "filter": 53,
+            "value": 7,
+            "label": "PAZAR"
+        },
+        {
+            "filter": 53,
+            "value": 8,
+            "label": "GÜNEYSU"
+        },
+        {
+            "filter": 53,
+            "value": 9,
+            "label": "DEREPAZARI"
+        },
+        {
+            "filter": 53,
+            "value": 10,
+            "label": "HEMŞİN"
+        },
+        {
+            "filter": 53,
+            "value": 11,
+            "label": "İYİDERE"
+        },
+        {
+            "filter": 53,
+            "value": 12,
+            "label": "PAZAR"
+        },
+        {
+            "filter": 53,
+            "value": 19,
+            "label": "Güneysu"
+        },
+        {
+            "filter": 54,
+            "value": 0,
+            "label": "SAKARYA MERKEZ"
+        },
+        {
+            "filter": 54,
+            "value": 1,
+            "label": "AKYAZI"
+        },
+        {
+            "filter": 54,
+            "value": 2,
+            "label": "GEYVE"
+        },
+        {
+            "filter": 54,
+            "value": 3,
+            "label": "HENDEK"
+        },
+        {
+            "filter": 54,
+            "value": 4,
+            "label": "KARASU"
+        },
+        {
+            "filter": 54,
+            "value": 5,
+            "label": "KAYNARCA"
+        },
+        {
+            "filter": 54,
+            "value": 6,
+            "label": "SAPANCA"
+        },
+        {
+            "filter": 54,
+            "value": 7,
+            "label": "PAMUKOVA"
+        },
+        {
+            "filter": 54,
+            "value": 8,
+            "label": "KOCAALİ"
+        },
+        {
+            "filter": 54,
+            "value": 9,
+            "label": "TARAKLI"
+        },
+        {
+            "filter": 54,
+            "value": 10,
+            "label": "KARAPÜRÇEK"
+        },
+        {
+            "filter": 54,
+            "value": 11,
+            "label": "FERİZLİ"
+        },
+        {
+            "filter": 54,
+            "value": 12,
+            "label": "SÖĞÜTLÜ"
+        },
+        {
+            "filter": 54,
+            "value": 13,
+            "label": "ARİFİYE"
+        },
+        {
+            "filter": 54,
+            "value": 14,
+            "label": "ERENLER"
+        },
+        {
+            "filter": 54,
+            "value": 15,
+            "label": "SERDİVAN"
+        },
+        {
+            "filter": 54,
+            "value": 16,
+            "label": "ADAPAZARI"
+        },
+        {
+            "filter": 54,
+            "value": 17,
+            "label": "SERDIVAN"
+        },
+        {
+            "filter": 55,
+            "value": 0,
+            "label": "SAMSUN MERKEZ"
+        },
+        {
+            "filter": 55,
+            "value": 1,
+            "label": "ALAÇAM"
+        },
+        {
+            "filter": 55,
+            "value": 2,
+            "label": "BAFRA"
+        },
+        {
+            "filter": 55,
+            "value": 3,
+            "label": "ÇARŞAMBA"
+        },
+        {
+            "filter": 55,
+            "value": 4,
+            "label": "HAVZA"
+        },
+        {
+            "filter": 55,
+            "value": 5,
+            "label": "KAVAK"
+        },
+        {
+            "filter": 55,
+            "value": 6,
+            "label": "LADİK"
+        },
+        {
+            "filter": 55,
+            "value": 7,
+            "label": "TERME"
+        },
+        {
+            "filter": 55,
+            "value": 8,
+            "label": "VEZİRKÖPRÜ"
+        },
+        {
+            "filter": 55,
+            "value": 9,
+            "label": "SALIPAZARI"
+        },
+        {
+            "filter": 55,
+            "value": 10,
+            "label": "ASARCIK"
+        },
+        {
+            "filter": 55,
+            "value": 11,
+            "label": "ONDOKUZMAYIS"
+        },
+        {
+            "filter": 55,
+            "value": 12,
+            "label": "TEKKEKÖY"
+        },
+        {
+            "filter": 55,
+            "value": 13,
+            "label": "AYVACIK"
+        },
+        {
+            "filter": 55,
+            "value": 14,
+            "label": "YAKAKENT"
+        },
+        {
+            "filter": 55,
+            "value": 15,
+            "label": "ATAKUM"
+        },
+        {
+            "filter": 55,
+            "value": 16,
+            "label": "CANİK"
+        },
+        {
+            "filter": 55,
+            "value": 17,
+            "label": "İLKADIM"
+        },
+        {
+            "filter": 56,
+            "value": 0,
+            "label": "TİLLO"
+        },
+        {
+            "filter": 56,
+            "value": 1,
+            "label": "AYDINLAR"
+        },
+        {
+            "filter": 56,
+            "value": 2,
+            "label": "BAYKAN"
+        },
+        {
+            "filter": 56,
+            "value": 3,
+            "label": "ERUH"
+        },
+        {
+            "filter": 56,
+            "value": 4,
+            "label": "ERUH"
+        },
+        {
+            "filter": 56,
+            "value": 5,
+            "label": "SİİRT MERKEZ"
+        },
+        {
+            "filter": 56,
+            "value": 6,
+            "label": "KURTALAN"
+        },
+        {
+            "filter": 56,
+            "value": 7,
+            "label": "PERVARİ"
+        },
+        {
+            "filter": 56,
+            "value": 10,
+            "label": "ŞİRVAN"
+        },
+        {
+            "filter": 56,
+            "value": 11,
+            "label": "AYDINLAR"
+        },
+        {
+            "filter": 56,
+            "value": 16,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 56,
+            "value": 17,
+            "label": "Siirt Merkez"
+        },
+        {
+            "filter": 57,
+            "value": 0,
+            "label": "SİNOP MERKEZ"
+        },
+        {
+            "filter": 57,
+            "value": 1,
+            "label": "AYANCIK"
+        },
+        {
+            "filter": 57,
+            "value": 2,
+            "label": "BOYABAT"
+        },
+        {
+            "filter": 57,
+            "value": 3,
+            "label": "DURAĞAN"
+        },
+        {
+            "filter": 57,
+            "value": 4,
+            "label": "ERFELEK"
+        },
+        {
+            "filter": 57,
+            "value": 5,
+            "label": "GERZE"
+        },
+        {
+            "filter": 57,
+            "value": 6,
+            "label": "TÜRKELİ"
+        },
+        {
+            "filter": 57,
+            "value": 7,
+            "label": "DİKMEN"
+        },
+        {
+            "filter": 57,
+            "value": 8,
+            "label": "SARAYDÜZÜ"
+        },
+        {
+            "filter": 57,
+            "value": 9,
+            "label": "TÜRKELİ"
+        },
+        {
+            "filter": 58,
+            "value": 0,
+            "label": "SİVAS MERKEZ"
+        },
+        {
+            "filter": 58,
+            "value": 1,
+            "label": "DİVRİĞİ"
+        },
+        {
+            "filter": 58,
+            "value": 2,
+            "label": "GEMEREK"
+        },
+        {
+            "filter": 58,
+            "value": 3,
+            "label": "GÜRÜN"
+        },
+        {
+            "filter": 58,
+            "value": 4,
+            "label": "HAFİK"
+        },
+        {
+            "filter": 58,
+            "value": 5,
+            "label": "İMRANLI"
+        },
+        {
+            "filter": 58,
+            "value": 6,
+            "label": "KANGAL"
+        },
+        {
+            "filter": 58,
+            "value": 7,
+            "label": "KOYULHİSAR"
+        },
+        {
+            "filter": 58,
+            "value": 8,
+            "label": "SUŞEHRİ"
+        },
+        {
+            "filter": 58,
+            "value": 9,
+            "label": "ŞARKIŞLA"
+        },
+        {
+            "filter": 58,
+            "value": 10,
+            "label": "YILDIZELİ"
+        },
+        {
+            "filter": 58,
+            "value": 11,
+            "label": "ZARA"
+        },
+        {
+            "filter": 58,
+            "value": 12,
+            "label": "AKINCILAR"
+        },
+        {
+            "filter": 58,
+            "value": 13,
+            "label": "ALTINYAYLA"
+        },
+        {
+            "filter": 58,
+            "value": 14,
+            "label": "DOĞANŞAR"
+        },
+        {
+            "filter": 58,
+            "value": 15,
+            "label": "GÖLOVA"
+        },
+        {
+            "filter": 58,
+            "value": 16,
+            "label": "ULAŞ"
+        },
+        {
+            "filter": 58,
+            "value": 17,
+            "label": "ZARA"
+        },
+        {
+            "filter": 59,
+            "value": 0,
+            "label": "TEKİRDAĞ MERKEZ"
+        },
+        {
+            "filter": 59,
+            "value": 1,
+            "label": "ÇERKEZKÖY"
+        },
+        {
+            "filter": 59,
+            "value": 2,
+            "label": "ÇORLU"
+        },
+        {
+            "filter": 59,
+            "value": 3,
+            "label": "HAYRABOLU"
+        },
+        {
+            "filter": 59,
+            "value": 4,
+            "label": "MALKARA"
+        },
+        {
+            "filter": 59,
+            "value": 5,
+            "label": "MURATLI"
+        },
+        {
+            "filter": 59,
+            "value": 6,
+            "label": "SARAY"
+        },
+        {
+            "filter": 59,
+            "value": 7,
+            "label": "ŞARKÖY"
+        },
+        {
+            "filter": 59,
+            "value": 8,
+            "label": "MARMARAEREĞLİSİ"
+        },
+        {
+            "filter": 59,
+            "value": 9,
+            "label": "ŞARKÖY"
+        },
+        {
+            "filter": 59,
+            "value": 10,
+            "label": "Çerkezköy"
+        },
+        {
+            "filter": 59,
+            "value": 11,
+            "label": "Çorlu"
+        },
+        {
+            "filter": 59,
+            "value": 17,
+            "label": "Muratlı"
+        },
+        {
+            "filter": 60,
+            "value": 0,
+            "label": "TOKAT MERKEZ"
+        },
+        {
+            "filter": 60,
+            "value": 1,
+            "label": "ALMUS"
+        },
+        {
+            "filter": 60,
+            "value": 2,
+            "label": "ARTOVA"
+        },
+        {
+            "filter": 60,
+            "value": 3,
+            "label": "ERBAA"
+        },
+        {
+            "filter": 60,
+            "value": 4,
+            "label": "NİKSAR"
+        },
+        {
+            "filter": 60,
+            "value": 5,
+            "label": "REŞADİYE"
+        },
+        {
+            "filter": 60,
+            "value": 6,
+            "label": "TURHAL"
+        },
+        {
+            "filter": 60,
+            "value": 7,
+            "label": "ZİLE"
+        },
+        {
+            "filter": 60,
+            "value": 8,
+            "label": "PAZAR"
+        },
+        {
+            "filter": 60,
+            "value": 9,
+            "label": "YEŞİLYURT"
+        },
+        {
+            "filter": 60,
+            "value": 10,
+            "label": "BAŞÇİFTLİK"
+        },
+        {
+            "filter": 60,
+            "value": 11,
+            "label": "SULUSARAY"
+        },
+        {
+            "filter": 60,
+            "value": 12,
+            "label": "ZİLE"
+        },
+        {
+            "filter": 60,
+            "value": 25,
+            "label": "Tokat Merkez"
+        },
+        {
+            "filter": 61,
+            "value": 0,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 61,
+            "value": 1,
+            "label": "AKÇAABAT"
+        },
+        {
+            "filter": 61,
+            "value": 2,
+            "label": "ARAKLI"
+        },
+        {
+            "filter": 61,
+            "value": 3,
+            "label": "ARSİN"
+        },
+        {
+            "filter": 61,
+            "value": 4,
+            "label": "ÇAYKARA"
+        },
+        {
+            "filter": 61,
+            "value": 5,
+            "label": "MAÇKA"
+        },
+        {
+            "filter": 61,
+            "value": 6,
+            "label": "OF"
+        },
+        {
+            "filter": 61,
+            "value": 7,
+            "label": "SÜRMENE"
+        },
+        {
+            "filter": 61,
+            "value": 8,
+            "label": "TONYA"
+        },
+        {
+            "filter": 61,
+            "value": 9,
+            "label": "VAKFIKEBİR"
+        },
+        {
+            "filter": 61,
+            "value": 10,
+            "label": "YOMRA"
+        },
+        {
+            "filter": 61,
+            "value": 11,
+            "label": "BEŞİKDÜZÜ"
+        },
+        {
+            "filter": 61,
+            "value": 12,
+            "label": "ŞALPAZARI"
+        },
+        {
+            "filter": 61,
+            "value": 13,
+            "label": "ÇARŞIBAŞI"
+        },
+        {
+            "filter": 61,
+            "value": 14,
+            "label": "DERNEKPAZARI"
+        },
+        {
+            "filter": 61,
+            "value": 15,
+            "label": "DÜZKÖY"
+        },
+        {
+            "filter": 61,
+            "value": 16,
+            "label": "HAYRAT"
+        },
+        {
+            "filter": 61,
+            "value": 17,
+            "label": "KÖPRÜBAŞI"
+        },
+        {
+            "filter": 61,
+            "value": 18,
+            "label": "YOMRA"
+        },
+        {
+            "filter": 61,
+            "value": 68,
+            "label": "ORTAHİSAR"
+        },
+        {
+            "filter": 62,
+            "value": 0,
+            "label": "TUNCELİ MERKEZ"
+        },
+        {
+            "filter": 62,
+            "value": 1,
+            "label": "ÇEMİŞGEZEK"
+        },
+        {
+            "filter": 62,
+            "value": 2,
+            "label": "HOZAT"
+        },
+        {
+            "filter": 62,
+            "value": 3,
+            "label": "MAZGİRT"
+        },
+        {
+            "filter": 62,
+            "value": 4,
+            "label": "NAZIMİYE"
+        },
+        {
+            "filter": 62,
+            "value": 5,
+            "label": "OVACIK"
+        },
+        {
+            "filter": 62,
+            "value": 6,
+            "label": "PERTEK"
+        },
+        {
+            "filter": 62,
+            "value": 7,
+            "label": "PÜLÜMÜR"
+        },
+        {
+            "filter": 62,
+            "value": 8,
+            "label": "PÜLÜMÜR"
+        },
+        {
+            "filter": 62,
+            "value": 18,
+            "label": "Tunceli Merkez"
+        },
+        {
+            "filter": 63,
+            "value": 0,
+            "label": "ŞANLIURFA MERKEZ"
+        },
+        {
+            "filter": 63,
+            "value": 1,
+            "label": "AKÇAKALE"
+        },
+        {
+            "filter": 63,
+            "value": 2,
+            "label": "BİRECİK"
+        },
+        {
+            "filter": 63,
+            "value": 3,
+            "label": "BOZOVA"
+        },
+        {
+            "filter": 63,
+            "value": 4,
+            "label": "CEYLANPINAR"
+        },
+        {
+            "filter": 63,
+            "value": 5,
+            "label": "HALFETİ"
+        },
+        {
+            "filter": 63,
+            "value": 6,
+            "label": "HİLVAN"
+        },
+        {
+            "filter": 63,
+            "value": 7,
+            "label": "SİVEREK"
+        },
+        {
+            "filter": 63,
+            "value": 8,
+            "label": "SURUÇ"
+        },
+        {
+            "filter": 63,
+            "value": 9,
+            "label": "VİRANŞEHİR"
+        },
+        {
+            "filter": 63,
+            "value": 10,
+            "label": "HARRAN"
+        },
+        {
+            "filter": 63,
+            "value": 11,
+            "label": "VİRANŞEHİR"
+        },
+        {
+            "filter": 63,
+            "value": 12,
+            "label": "Ceylanpınar"
+        },
+        {
+            "filter": 63,
+            "value": 13,
+            "label": "Hilvan"
+        },
+        {
+            "filter": 64,
+            "value": 0,
+            "label": "UŞAK MERKEZ"
+        },
+        {
+            "filter": 64,
+            "value": 1,
+            "label": "BANAZ"
+        },
+        {
+            "filter": 64,
+            "value": 2,
+            "label": "EŞME"
+        },
+        {
+            "filter": 64,
+            "value": 3,
+            "label": "KARAHALLI"
+        },
+        {
+            "filter": 64,
+            "value": 4,
+            "label": "SİVASLI"
+        },
+        {
+            "filter": 64,
+            "value": 5,
+            "label": "ULUBEY"
+        },
+        {
+            "filter": 64,
+            "value": 6,
+            "label": "ULUBEY"
+        },
+        {
+            "filter": 64,
+            "value": 13,
+            "label": "Ulubey"
+        },
+        {
+            "filter": 64,
+            "value": 78,
+            "label": "GÖZTEPE"
+        },
+        {
+            "filter": 64,
+            "value": 79,
+            "label": "KARAKÖY"
+        },
+        {
+            "filter": 64,
+            "value": 80,
+            "label": "EMEK"
+        },
+        {
+            "filter": 64,
+            "value": 81,
+            "label": "MALTEPE"
+        },
+        {
+            "filter": 65,
+            "value": 0,
+            "label": "VAN MERKEZ"
+        },
+        {
+            "filter": 65,
+            "value": 1,
+            "label": "BAŞKALE"
+        },
+        {
+            "filter": 65,
+            "value": 2,
+            "label": "ÇATAK"
+        },
+        {
+            "filter": 65,
+            "value": 3,
+            "label": "ERCİŞ"
+        },
+        {
+            "filter": 65,
+            "value": 4,
+            "label": "GEVAŞ"
+        },
+        {
+            "filter": 65,
+            "value": 5,
+            "label": "GÜRPINAR"
+        },
+        {
+            "filter": 65,
+            "value": 6,
+            "label": "MURADİYE"
+        },
+        {
+            "filter": 65,
+            "value": 7,
+            "label": "ÖZALP"
+        },
+        {
+            "filter": 65,
+            "value": 8,
+            "label": "ÇALDIRAN"
+        },
+        {
+            "filter": 65,
+            "value": 9,
+            "label": "BAHÇESARAY"
+        },
+        {
+            "filter": 65,
+            "value": 10,
+            "label": "EDREMİT"
+        },
+        {
+            "filter": 65,
+            "value": 11,
+            "label": "SARAY"
+        },
+        {
+            "filter": 65,
+            "value": 12,
+            "label": "İPEKYOLU"
+        },
+        {
+            "filter": 65,
+            "value": 13,
+            "label": "TUŞBA"
+        },
+        {
+            "filter": 66,
+            "value": 0,
+            "label": "YOZGAT MERKEZ"
+        },
+        {
+            "filter": 66,
+            "value": 1,
+            "label": "AKDAĞMADENİ"
+        },
+        {
+            "filter": 66,
+            "value": 2,
+            "label": "BOĞAZLIYAN"
+        },
+        {
+            "filter": 66,
+            "value": 3,
+            "label": "ÇAYIRALAN"
+        },
+        {
+            "filter": 66,
+            "value": 4,
+            "label": "ÇEKEREK"
+        },
+        {
+            "filter": 66,
+            "value": 5,
+            "label": "SARIKAYA"
+        },
+        {
+            "filter": 66,
+            "value": 6,
+            "label": "SORGUN"
+        },
+        {
+            "filter": 66,
+            "value": 7,
+            "label": "ŞEFAATLİ"
+        },
+        {
+            "filter": 66,
+            "value": 8,
+            "label": "YERKÖY"
+        },
+        {
+            "filter": 66,
+            "value": 9,
+            "label": "SARAYKENT"
+        },
+        {
+            "filter": 66,
+            "value": 10,
+            "label": "AYDINCIK"
+        },
+        {
+            "filter": 66,
+            "value": 11,
+            "label": "ÇANDIR"
+        },
+        {
+            "filter": 66,
+            "value": 12,
+            "label": "KADIŞEHRİ"
+        },
+        {
+            "filter": 66,
+            "value": 13,
+            "label": "SARAYKENT"
+        },
+        {
+            "filter": 66,
+            "value": 14,
+            "label": "YENİFAKILI"
+        },
+        {
+            "filter": 67,
+            "value": 0,
+            "label": "ZONGULDAK MERKEZ"
+        },
+        {
+            "filter": 67,
+            "value": 1,
+            "label": "ALAPLI"
+        },
+        {
+            "filter": 67,
+            "value": 2,
+            "label": "ÇAYCUMA"
+        },
+        {
+            "filter": 67,
+            "value": 3,
+            "label": "DEVREK"
+        },
+        {
+            "filter": 67,
+            "value": 4,
+            "label": "Kilimli"
+        },
+        {
+            "filter": 67,
+            "value": 5,
+            "label": "EREĞLİ"
+        },
+        {
+            "filter": 67,
+            "value": 6,
+            "label": "GÖKÇEBEY"
+        },
+        {
+            "filter": 67,
+            "value": 7,
+            "label": "Ereğli"
+        },
+        {
+            "filter": 67,
+            "value": 8,
+            "label": "ZONGULDAK MERKEZ"
+        },
+        {
+            "filter": 67,
+            "value": 10,
+            "label": "ALAPLI"
+        },
+        {
+            "filter": 67,
+            "value": 13,
+            "label": "GÖKÇEBEY"
+        },
+        {
+            "filter": 67,
+            "value": 14,
+            "label": "Zonguldak Merkez"
+        },
+        {
+            "filter": 67,
+            "value": 15,
+            "label": "KİLİMLİ"
+        },
+        {
+            "filter": 67,
+            "value": 16,
+            "label": "KOZLU"
+        },
+        {
+            "filter": 68,
+            "value": 0,
+            "label": "AKSARAY MERKE"
+        },
+        {
+            "filter": 68,
+            "value": 1,
+            "label": "GÜZELYURT"
+        },
+        {
+            "filter": 68,
+            "value": 2,
+            "label": "ORTAKÖY"
+        },
+        {
+            "filter": 68,
+            "value": 3,
+            "label": "SARIYAHŞİ"
+        },
+        {
+            "filter": 68,
+            "value": 4,
+            "label": "AĞAÇÖREN"
+        },
+        {
+            "filter": 68,
+            "value": 5,
+            "label": "ESKİL"
+        },
+        {
+            "filter": 68,
+            "value": 6,
+            "label": "GÜLAĞAÇ"
+        },
+        {
+            "filter": 68,
+            "value": 7,
+            "label": "SARIYAHŞİ"
+        },
+        {
+            "filter": 68,
+            "value": 8,
+            "label": "Ortaköy"
+        },
+        {
+            "filter": 69,
+            "value": 0,
+            "label": "BAYBURT MERKEZ"
+        },
+        {
+            "filter": 69,
+            "value": 1,
+            "label": "AYDINTEPE"
+        },
+        {
+            "filter": 69,
+            "value": 2,
+            "label": "DEMİRÖZÜ"
+        },
+        {
+            "filter": 69,
+            "value": 3,
+            "label": "BAYBURT MERKEZ"
+        },
+        {
+            "filter": 69,
+            "value": 7,
+            "label": "Demirözü"
+        },
+        {
+            "filter": 70,
+            "value": 0,
+            "label": "KARAMAN MERKEZ"
+        },
+        {
+            "filter": 70,
+            "value": 1,
+            "label": "AYRANCI"
+        },
+        {
+            "filter": 70,
+            "value": 2,
+            "label": "ERMENEK"
+        },
+        {
+            "filter": 70,
+            "value": 3,
+            "label": "KAZIMKARABEKİR"
+        },
+        {
+            "filter": 70,
+            "value": 4,
+            "label": "BAŞYAYLA"
+        },
+        {
+            "filter": 70,
+            "value": 5,
+            "label": "SARIVELİLER"
+        },
+        {
+            "filter": 70,
+            "value": 6,
+            "label": "SARIVELİLER"
+        },
+        {
+            "filter": 70,
+            "value": 19,
+            "label": "Karaman Merkez"
+        },
+        {
+            "filter": 71,
+            "value": 0,
+            "label": "KIRIKKALE MERKEZ"
+        },
+        {
+            "filter": 71,
+            "value": 1,
+            "label": "DELİCE"
+        },
+        {
+            "filter": 71,
+            "value": 2,
+            "label": "KESKİN"
+        },
+        {
+            "filter": 71,
+            "value": 3,
+            "label": "SULAKYURT"
+        },
+        {
+            "filter": 71,
+            "value": 4,
+            "label": "BAHŞİLİ"
+        },
+        {
+            "filter": 71,
+            "value": 5,
+            "label": "BALIŞEYH"
+        },
+        {
+            "filter": 71,
+            "value": 6,
+            "label": "ÇELEBİ"
+        },
+        {
+            "filter": 71,
+            "value": 7,
+            "label": "KARAKEÇİLİ"
+        },
+        {
+            "filter": 71,
+            "value": 8,
+            "label": "YAHŞİHAN"
+        },
+        {
+            "filter": 71,
+            "value": 9,
+            "label": "YAHŞİHAN"
+        },
+        {
+            "filter": 72,
+            "value": 0,
+            "label": "BATMAN MERKEZ"
+        },
+        {
+            "filter": 72,
+            "value": 1,
+            "label": "BEŞİRİ"
+        },
+        {
+            "filter": 72,
+            "value": 2,
+            "label": "GERCÜŞ"
+        },
+        {
+            "filter": 72,
+            "value": 3,
+            "label": "HASANKEYF"
+        },
+        {
+            "filter": 72,
+            "value": 4,
+            "label": "KOZLUK"
+        },
+        {
+            "filter": 72,
+            "value": 5,
+            "label": "KOZLUK"
+        },
+        {
+            "filter": 72,
+            "value": 6,
+            "label": "SASON"
+        },
+        {
+            "filter": 72,
+            "value": 8,
+            "label": "SASON"
+        },
+        {
+            "filter": 72,
+            "value": 9,
+            "label": "Sason"
+        },
+        {
+            "filter": 72,
+            "value": 11,
+            "label": "GERCÜŞ"
+        },
+        {
+            "filter": 73,
+            "value": 0,
+            "label": "ŞIRNAK MERKEZ"
+        },
+        {
+            "filter": 73,
+            "value": 1,
+            "label": "BEYTÜŞŞEBAP"
+        },
+        {
+            "filter": 73,
+            "value": 2,
+            "label": "GÜÇLÜKONAK"
+        },
+        {
+            "filter": 73,
+            "value": 3,
+            "label": "İDİL"
+        },
+        {
+            "filter": 73,
+            "value": 4,
+            "label": "ULUDERE"
+        },
+        {
+            "filter": 73,
+            "value": 5,
+            "label": "CİZRE"
+        },
+        {
+            "filter": 73,
+            "value": 6,
+            "label": "SİLOPİ"
+        },
+        {
+            "filter": 73,
+            "value": 7,
+            "label": "ULUDERE"
+        },
+        {
+            "filter": 74,
+            "value": 0,
+            "label": "BARTIN MERKEZ"
+        },
+        {
+            "filter": 74,
+            "value": 1,
+            "label": "AMASRA"
+        },
+        {
+            "filter": 74,
+            "value": 2,
+            "label": "KURUCAŞİLE"
+        },
+        {
+            "filter": 74,
+            "value": 3,
+            "label": "ULUS"
+        },
+        {
+            "filter": 74,
+            "value": 4,
+            "label": "ULUS"
+        },
+        {
+            "filter": 74,
+            "value": 7,
+            "label": "Amasra"
+        },
+        {
+            "filter": 75,
+            "value": 0,
+            "label": "ARDAHAN MERKEZ"
+        },
+        {
+            "filter": 75,
+            "value": 1,
+            "label": "ÇILDIR"
+        },
+        {
+            "filter": 75,
+            "value": 2,
+            "label": "DAMAL"
+        },
+        {
+            "filter": 75,
+            "value": 3,
+            "label": "GÖLE"
+        },
+        {
+            "filter": 75,
+            "value": 4,
+            "label": "HANAK"
+        },
+        {
+            "filter": 75,
+            "value": 5,
+            "label": "POSOF"
+        },
+        {
+            "filter": 75,
+            "value": 6,
+            "label": "POSOF"
+        },
+        {
+            "filter": 76,
+            "value": 0,
+            "label": "IĞDIR MERKEZ"
+        },
+        {
+            "filter": 76,
+            "value": 1,
+            "label": "ARALIK"
+        },
+        {
+            "filter": 76,
+            "value": 2,
+            "label": "KARAKOYUNLU"
+        },
+        {
+            "filter": 76,
+            "value": 3,
+            "label": "TUZLUCA"
+        },
+        {
+            "filter": 76,
+            "value": 4,
+            "label": "TUZLUCA"
+        },
+        {
+            "filter": 76,
+            "value": 6,
+            "label": "Tuzluca"
+        },
+        {
+            "filter": 77,
+            "value": 0,
+            "label": "YALOVA MERKEZ"
+        },
+        {
+            "filter": 77,
+            "value": 1,
+            "label": "ALTINOVA"
+        },
+        {
+            "filter": 77,
+            "value": 2,
+            "label": "ARMUTLU"
+        },
+        {
+            "filter": 77,
+            "value": 3,
+            "label": "ÇINARCIK"
+        },
+        {
+            "filter": 77,
+            "value": 4,
+            "label": "ÇİFTLİKKÖY"
+        },
+        {
+            "filter": 77,
+            "value": 5,
+            "label": "TERMAL"
+        },
+        {
+            "filter": 77,
+            "value": 6,
+            "label": "MERKEZ"
+        },
+        {
+            "filter": 78,
+            "value": 0,
+            "label": "KARABÜK MERKEZ"
+        },
+        {
+            "filter": 78,
+            "value": 1,
+            "label": "EFLANİ"
+        },
+        {
+            "filter": 78,
+            "value": 2,
+            "label": "ESKİPAZAR"
+        },
+        {
+            "filter": 78,
+            "value": 3,
+            "label": "OVACIK"
+        },
+        {
+            "filter": 78,
+            "value": 4,
+            "label": "SAFRANBOLU"
+        },
+        {
+            "filter": 78,
+            "value": 5,
+            "label": "YENİCE"
+        },
+        {
+            "filter": 78,
+            "value": 6,
+            "label": "YENİCE"
+        },
+        {
+            "filter": 79,
+            "value": 0,
+            "label": "KİLİS MERKEZ"
+        },
+        {
+            "filter": 79,
+            "value": 1,
+            "label": "ELBEYLİ"
+        },
+        {
+            "filter": 79,
+            "value": 2,
+            "label": "MUSABEYLİ"
+        },
+        {
+            "filter": 79,
+            "value": 3,
+            "label": "POLATELİ"
+        },
+        {
+            "filter": 79,
+            "value": 4,
+            "label": "Polateli"
+        },
+        {
+            "filter": 79,
+            "value": 6,
+            "label": "Kilis Merkez"
+        },
+        {
+            "filter": 80,
+            "value": 0,
+            "label": "OSMANİYE MERKEZ"
+        },
+        {
+            "filter": 80,
+            "value": 1,
+            "label": "BAHÇE"
+        },
+        {
+            "filter": 80,
+            "value": 2,
+            "label": "DÜZİÇİ"
+        },
+        {
+            "filter": 80,
+            "value": 3,
+            "label": "TOPRAKKALE"
+        },
+        {
+            "filter": 80,
+            "value": 4,
+            "label": "KADİRLİ"
+        },
+        {
+            "filter": 80,
+            "value": 5,
+            "label": "HASANBEYLİ"
+        },
+        {
+            "filter": 80,
+            "value": 6,
+            "label": "SUMBAS"
+        },
+        {
+            "filter": 80,
+            "value": 7,
+            "label": "Bahçe"
+        },
+        {
+            "filter": 80,
+            "value": 8,
+            "label": "Düziçi"
+        },
+        {
+            "filter": 80,
+            "value": 80,
+            "label": "İÇEL"
+        },
+        {
+            "filter": 80,
+            "value": 81,
+            "label": "OSMANİYE MERKEZ"
+        },
+        {
+            "filter": 80,
+            "value": 82,
+            "label": "KADİRLİ"
+        },
+        {
+            "filter": 81,
+            "value": 0,
+            "label": "DÜZCE MERKEZ"
+        },
+        {
+            "filter": 81,
+            "value": 1,
+            "label": "AKÇAKOCA"
+        },
+        {
+            "filter": 81,
+            "value": 2,
+            "label": "CUMAYERİ"
+        },
+        {
+            "filter": 81,
+            "value": 3,
+            "label": "ÇİLİMLİ"
+        },
+        {
+            "filter": 81,
+            "value": 4,
+            "label": "GÖLYAKA"
+        },
+        {
+            "filter": 81,
+            "value": 5,
+            "label": "GÜMÜŞOVA"
+        },
+        {
+            "filter": 81,
+            "value": 6,
+            "label": "KAYNAŞLI"
+        },
+        {
+            "filter": 81,
+            "value": 7,
+            "label": "YIĞILCA"
+        },
+        {
+            "filter": 81,
+            "value": 8,
+            "label": "ÇİLİMLİ"
+        },
+        {
+            "filter": 90,
+            "value": 1,
+            "label": "Yenipazar"
+        },
+        {
+            "filter": 90,
+            "value": 2,
+            "label": "Koçarlı"
+        },
+        {
+            "filter": 90,
+            "value": 3,
+            "label": "Kuşadası"
+        },
+        {
+            "filter": 90,
+            "value": 4,
+            "label": "Söke"
+        },
+        {
+            "filter": 90,
+            "value": 5,
+            "label": "Sultanhisar"
+        },
+        {
+            "filter": 90,
+            "value": 6,
+            "label": "Kuyucak"
+        },
+        {
+            "filter": 90,
+            "value": 7,
+            "label": "Nazilli"
+        },
+        {
+            "filter": 90,
+            "value": 8,
+            "label": "Buharkent"
+        },
+        {
+            "filter": 90,
+            "value": 9,
+            "label": "Karpuzlu"
+        },
+        {
+            "filter": 90,
+            "value": 10,
+            "label": "İncirliova"
+        },
+        {
+            "filter": 90,
+            "value": 11,
+            "label": "Didim"
+        },
+        {
+            "filter": 90,
+            "value": 12,
+            "label": "Efeler"
+        },
+        {
+            "filter": 90,
+            "value": 13,
+            "label": "Köşk"
+        },
+        {
+            "filter": 90,
+            "value": 14,
+            "label": "Bozdoğan"
+        },
+        {
+            "filter": 90,
+            "value": 15,
+            "label": "Karacasu"
+        },
+        {
+            "filter": 90,
+            "value": 16,
+            "label": "Çine"
+        },
+        {
+            "filter": 90,
+            "value": 17,
+            "label": "Germencik"
+        },
+        {
+            "filter": 90,
+            "value": 18,
+            "label": "Girne"
+        },
+        {
+            "filter": 90,
+            "value": 19,
+            "label": "Güzelyurt"
+        },
+        {
+            "filter": 90,
+            "value": 20,
+            "label": "İskele"
+        },
+        {
+            "filter": 90,
+            "value": 21,
+            "label": "Lefkoşa"
+        },
+        {
+            "filter": 90,
+            "value": 22,
+            "label": "Gazimağusa"
+        },
+        {
+            "filter": 999,
+            "value": 999,
+            "label": "YURT DIŞI"
+        }
+    ],
+    "sampledata": [
+        {
+            "value": 90,
+            "label": "TURKIYE",
+            "data": [
+                {
+                    "value": 28,
+                    "label": "GİRESUN",
+                    "data": [
+                        {
+                            "value": 0,
+                            "label": "GİRESUN MERKEZ"
+                        },
+                        {
+                            "value": 1,
+                            "label": "ALUCRA"
+                        },
+                        {
+                            "value": 2,
+                            "label": "BULANCAK"
+                        },
+                        {
+                            "value": 3,
+                            "label": "DERELİ"
+                        },
+                        {
+                            "value": 4,
+                            "label": "ESPİYE"
+                        },
+                        {
+                            "value": 5,
+                            "label": "EYNESİL"
+                        },
+                        {
+                            "value": 6,
+                            "label": "GÖRELE"
+                        },
+                        {
+                            "value": 7,
+                            "label": "KEŞAP"
+                        },
+                        {
+                            "value": 8,
+                            "label": "ŞEBİNKARAHİSAR"
+                        },
+                        {
+                            "value": 9,
+                            "label": "TİREBOLU"
+                        },
+                        {
+                            "value": 10,
+                            "label": "PİRAZİZ"
+                        },
+                        {
+                            "value": 11,
+                            "label": "YAĞLIDERE"
+                        },
+                        {
+                            "value": 12,
+                            "label": "ÇANAKÇI"
+                        },
+                        {
+                            "value": 13,
+                            "label": "GÜCE"
+                        },
+                        {
+                            "value": 14,
+                            "label": "DOĞANKENT"
+                        },
+                        {
+                            "value": 15,
+                            "label": "TİREBOLU"
+                        },
+                        {
+                            "value": 16,
+                            "label": "YAĞLIDERE"
+                        },
+                        {
+                            "value": 28,
+                            "label": "ÇAMOLUK"
+                        }
+                    ]
+                },
+                {
+                    "value": 38,
+                    "label": "KAYSERİ",
+                    "data": [
+                        {
+                            "value": 0,
+                            "label": "MERKEZ"
+                        },
+                        {
+                            "value": 1,
+                            "label": "BÜNYAN"
+                        },
+                        {
+                            "value": 2,
+                            "label": "DEVELİ"
+                        },
+                        {
+                            "value": 3,
+                            "label": "FELAHİYE"
+                        },
+                        {
+                            "value": 4,
+                            "label": "İNCESU"
+                        },
+                        {
+                            "value": 5,
+                            "label": "PINARBAŞI"
+                        },
+                        {
+                            "value": 6,
+                            "label": "SARIOĞLAN"
+                        },
+                        {
+                            "value": 7,
+                            "label": "SARIZ"
+                        },
+                        {
+                            "value": 8,
+                            "label": "TOMARZA"
+                        },
+                        {
+                            "value": 9,
+                            "label": "YAHYALI"
+                        },
+                        {
+                            "value": 10,
+                            "label": "YEŞİLHİSAR"
+                        },
+                        {
+                            "value": 11,
+                            "label": "AKKIŞLA"
+                        },
+                        {
+                            "value": 12,
+                            "label": "TALAS"
+                        },
+                        {
+                            "value": 13,
+                            "label": "MELİKGAZİ"
+                        },
+                        {
+                            "value": 14,
+                            "label": "KOCASİNAN"
+                        },
+                        {
+                            "value": 15,
+                            "label": "HACILAR"
+                        },
+                        {
+                            "value": 16,
+                            "label": "ÖZVATAN"
+                        },
+                        {
+                            "value": 20,
+                            "label": "Yeşilhisar"
+                        },
+                        {
+                            "value": 54,
+                            "label": "KAYSERİ MERKEZ"
+                        }
+                    ]
+                },
+                {
+                    "value": 77,
+                    "label": "YALOVA",
+                    "data": [
+                        {
+                            "value": 0,
+                            "label": "YALOVA MERKEZ"
+                        },
+                        {
+                            "value": 1,
+                            "label": "ALTINOVA"
+                        },
+                        {
+                            "value": 2,
+                            "label": "ARMUTLU"
+                        },
+                        {
+                            "value": 3,
+                            "label": "ÇINARCIK"
+                        },
+                        {
+                            "value": 4,
+                            "label": "ÇİFTLİKKÖY"
+                        },
+                        {
+                            "value": 5,
+                            "label": "TERMAL"
+                        },
+                        {
+                            "value": 6,
+                            "label": "MERKEZ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value": 999,
+            "label": "DIGER"
+        }
+    ]
+}
